@@ -77,6 +77,14 @@
 
 This will be an interactive map for various dialects from low-resource languages, with a focus on and starting with Kurdish.
 
+There exist a plathora of Kurdish dialects that are often unintelligible to the native speakers of each other. However, Kurdish is considered to be a dialect continuum with at times sudden language shifts and sometimes smooth transitions from one dialect to the neighboring one.
+At first it might seem confusing and counter intuitive that it has been found, that Central Kurdish is considered to be very understandable by speakers of Northern Kurdish and Southern Kurdish to be understandable by speakers of Central Kurdish- but speakers of Northern Kurdish hardly being able to understand Southern Kurdish. An explanation for this can be found in the prior mentioned dialect continuum- where "Central Kurdish" is not necessarily "Central Kurdish", since there exist many differen subdialects of Central Kurdish.
+
+[![Project Motivation Screen Shot][project-idea]](https://example.com)
+
+Utilizing an interactive map, visualizing the different aspects and geographical distribution of the separate dialects might enable new insights and at the very least an easier understanding of Kurdish linguistics.
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -219,6 +227,6 @@ A list of helpful resources we would like to give credit to:
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/christian-schuler-59090a177/
 [project-screenshot]: images/DialectMapping-Concept.png
-
+[project-idea]: images/DialectMapping-Similarity.png
 
 
