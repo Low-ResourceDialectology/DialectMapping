@@ -88,6 +88,13 @@ Utilizing an interactive map, visualizing the different aspects and geographical
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+## Poster presented at the ICKL-6 in 2023
+
+The [ICKL](https://www.uni-frankfurt.de/131978051/Call-for-Papers-ICKL-6) is a biannual conference serving as a forum of scientific exchange for linguists working on any aspect of Kurdish, including the interactions with its neighboring languages. 
+
+[![Project Poster Screen Shot][project-poster-ickl-png]](https://github.com/Low-ResourceDialectology/DialectMapping)
+[The poster as pdf](https://github.com/Low-ResourceDialectology/DialectMapping/images/2023_ICKL_DialectMapping_Poster.pdf)
+
 
 ### Built With
 
@@ -194,7 +201,7 @@ Distributed under the Apache License. See `LICENSE.txt` for more information.
 
 [Christian Schuler](https://christianschuler8989.github.io/) - christianschuler8989(4T)gmail.com
 
-Raman Ahmad - 
+[Raman Ahmad](https://github.com/RamanAhmad.github.io/) - raman.ahmad2022(4T)gmail.com
 
 Related project of the authors: [Analysis of Phonology and Morphology in the Kobani Dialect ](https://github.com/Low-ResourceDialectology/KobaniAnalysis)
 
@@ -229,5 +236,6 @@ A list of helpful resources we would like to give credit to:
 [linkedin-url]: https://www.linkedin.com/in/christian-schuler-59090a177/
 [project-screenshot]: images/DialectMapping-Concept.png
 [project-idea]: images/Kurdish-PercievedLanguageSimilarity.png
-
+[project-poster-ickl-png]: images/2023_ICKL_DialectMapping_Poster.png
+[project-poster-ickl-pdf]: images/2023_ICKL_DialectMapping_Poster.pdf
 
