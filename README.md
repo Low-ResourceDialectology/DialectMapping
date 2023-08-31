@@ -49,6 +49,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+      	<li><a href="#poster-presented-at-the-ickl-6-in-2023">ICKL-6 Poster</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -88,7 +89,7 @@ Utilizing an interactive map, visualizing the different aspects and geographical
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Poster presented at the ICKL-6 in 2023
+### Poster presented at the ICKL-6 in 2023
 
 The International Conference on Kurdish Linguistics ([ICKL](https://www.uni-frankfurt.de/131978051/Call-for-Papers-ICKL-6)) is a biannual conference serving as a forum of scientific exchange for linguists working on any aspect of Kurdish, including the interactions with its neighboring languages. 
 
