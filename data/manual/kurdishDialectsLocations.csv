@@ -1,0 +1,453 @@
+Language,Dialect,DialectAlt,DialectContinuum,DialectContinuumAlt,SubDialect,SubDialectAlt,NativeSpeakers,LocationCountry,LocationCountryInfo,Level1Eng,Level2Eng,Level1Kur,Level2Kur,LocationOld,LocationAlt,LocationKur,LocationType,LocationInfo,,,DialectDensity,NativeSpeakersYear,OfficialLanguage,Notes,Sources
+Kurdish,,,,,,,25000000,,,,,,,,,,,,,,,2022,"Kurdistan Region, Iraq, Rojava",,
+Kurdish,Standard Kurdish,,,,,,,,,Botan,,Botan,,Botan,,,region,centred on the town of Cizre (Cizîr),,,,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,,,,,15700000,,,,,,,,,,,,,,,2019,"Kurdistan Region, Rojava",,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Northern Kurdish,Kurmanji,,,,,,Turkey,,,,,,,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Northern Kurdish,Kurmanji,,,,,,Syria,,,,,,,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Northern Kurdish,Kurmanji,,,,,,Iraq,,,,,,,,,,Northern,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Northern Kurdish,Kurmanji,,,,,,Iran,,,,,,,,,,Northwest,,,,,,,
+Kurdish,Northern Kurdish,Kurmanji,,,,,,Iran,,,,,,,,,,Northeast,,,,,,,
+Kurdish,Northern Kurdish,Kurmanji,,,,,,Lebanon,,,,,,,,,,,,,,,,,
+Kurdish,Northern Kurdish,Kurmanji,,,,,,Armenia,,,,,,,,,,,,,,,,,
+Kurdish,Northern Kurdish,Kurmanji,,,,,,Anatolia,,,,,,,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Northern Kurdish,Kurmanji,,,,,,Caucasus,,,,,,,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Northern Kurdish,Kurmanji,,,,,,,some former Soviet republics,,,,,,,,,,,,,,,,
+Kurdish,Northern Kurdish,Kurmanji,Southeastern Kurmanji,"Badînî, SEK",,,,Turkey ,,,,,,,,,,,,,,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Southeastern Kurmanji,"Badînî, SEK",,,,Turkey,Southeastern,Hakkari,,Culemêrg,,Hakkâri,,,province,,,,high,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Southeastern Kurmanji,"Badînî, SEK",,,,Iraq,,,,,,,,,,,,,,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Southeastern Kurmanji,"Badînî, SEK",,,,Iraq,Iraqi Kurdistan,Dihok,,Dihok,,Dihok,,,province,,,,high,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Southeastern Kurmanji,"Badînî, SEK",,,,Iraq,,Soran,,dipirsin,,Soran,,,,,,,low,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Southeastern Kurmanji,"Badînî, SEK",,,,Turkey,,Semdinli,,Semdinli,,Şemdinli,,,,,,,low,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Southeastern Kurmanji,"Badînî, SEK",,,,Iraq,,Mosul,,Mûsil,,Mosul,,,,,,,low,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Southeastern Kurmanji,"Badînî, SEK",,,,Turkey,,Sirnak,,Sirnak,,Şirnak,,,,,,,low,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Southeastern Kurmanji,"Badînî, SEK",,,,Iran,,Urmia,,Urmia,,Urmia,,,,,,,low,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Southeastern Kurmanji,"Badînî, SEK",,,,Iraq,,Arbil,,Arbil,,Arbil,,,,,,,low,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Southeastern Kurmanji,"Badînî, SEK",,,,Iran,,Salmas,,Salma,,Salmās,,,,,,,low,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Northwestern Kurmanji,NWK,,,,,,,,,,,,,,,,,,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Northwestern Kurmanji,NWK,,,,,,Kahramanmaras,,Kahramanmaras,,Kahramanmaraş,Meraş,,province,,,,high,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Northwestern Kurmanji,NWK,,,,Turkey,,Malatya,,Malatya,,Malatya,Meletî,,province,,,,high,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Northwestern Kurmanji,NWK,,,,Turkey,,Sivas,,Sivas,,Sivas,Sêwaz,,province,,,,high,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Northwestern Kurmanji,NWK,,,,Turkey,,Elbistan,,Elbistan,,Elbistan,,,,,,,low,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Northwestern Kurmanji,NWK,,,,Turkey,,Adiyaman,,Adiyaman,,Adiyaman,,,,,,,low,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Southwestern Kurmanji,SWK,,,,Turkey,,,,,,,,,,,,,,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Southwestern Kurmanji,SWK,,,,Turkey,,Adiyaman,,Adiyaman,,Adıyaman,Semsûr,,,,,,high,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Southwestern Kurmanji,SWK,,,,Turkey,,Gaziantep,,Gaziantep,,Gaziantep,Entab,,,,,,high,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Southwestern Kurmanji,SWK,,,,Turkey,,Sanliurfa,,Sanliurfa,,Şanlıurfa,,,province,western half,,,high,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Southwestern Kurmanji,SWK,,,,Syria,,,,,,,,,,,,,,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Southwestern Kurmanji,SWK,,,,Syria,,Aleppo,,Heleb,,Aleppo,Heleb,,province,northern section,,,high,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Southwestern Kurmanji,SWK,,,,Turkey,,Urfa,,Riha,,Urfa,,,,,,,low,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Southwestern Kurmanji,SWK,,,,Turkey,,Akbudak,,Akbûdas,,Akbudak,,,,,,,low,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Southwestern Kurmanji,SWK,,,,Turkey,,Adiyaman,,Adiyaman,,Adiyaman,,,,,,,low,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Northern Kurmanji,"Serhed Kurdish, NK",,,,Turkey,,,,,,,,,,,,,,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Northern Kurmanji,"Serhed Kurdish, NK",,,,,,Mus,,Mûş,,Muş,Mûş,,province,,,,high,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Northern Kurmanji,"Serhed Kurdish, NK",,,,,,Agri,,Agri,,Ağrı,"Agirî, Qerekilîs",,province,,,,high,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Northern Kurmanji,"Serhed Kurdish, NK",,,,,,Erzurum,,Erzirom,,Erzurum,Erzerom,,province,,,,high,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Northern Kurmanji,"Serhed Kurdish, NK",,,,,,Van,,Wan,,Van,Wan,,province,some districts,,,middle,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Northern Kurmanji,"Serhed Kurdish, NK",,,,,,Bitlis,,Bedlîs,,Bitlis,Bilîs/Bedlîs,,province,some districts,,,middle,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Northern Kurmanji,"Serhed Kurdish, NK",,,,,,Bingol,,Bingol,,Bingöl,Çewlig,,province,some districts,,,middle,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Northern Kurmanji,"Serhed Kurdish, NK",,,,,,Diyarbakir,,Amed,,Diyarbakır,,,province,some districts,,,middle,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Northern Kurmanji,"Serhed Kurdish, NK",,,,Turkay,,Varto,,Ew hêja ye,,Varto,,,,,,,low,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Northern Kurmanji,"Serhed Kurdish, NK",,,,Iran,,Maku,,Tam,,Maku,,,,,,,low,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Northern Kurmanji,"Serhed Kurdish, NK",,,,Turkey,,Kars,,Qers,,Kars,,,,,,,low,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Northern Kurmanji,"Serhed Kurdish, NK",,,,Armenia,,Yerevan,,Yerevan,,Yerevan,,,,,,,low,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Northern Kurmanji,"Serhed Kurdish, NK",,,,Iran,,Salmas,,Salma,,Salmās,,,,,,,low,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Southern Kurmanji,SK,,,,Turkey,,,,,,,,,,,,,,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Southern Kurmanji,SK,,,,Turkey,,Mardin,,Mêrdîn,,Mardin,,,province,,,,high,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Southern Kurmanji,SK,,,,Turkey,,Batman,,Êlih,,Batman,,,province,,,,high,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Southern Kurmanji,SK,,,,Turkey,,Sirnak,,Sirnak,,Şırnak,Şirnex,,province,,,,high,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Southern Kurmanji,SK,,,,Turkey,,Diyarbakir,,Amed,,Diyarbakır,Diyarbekir,,province,,,,high,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Southern Kurmanji,SK,,,,Turkey,,Sanliurfa,,Sanliurfa,,Şanlıurfa,Riha,,province,,,,high,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Southern Kurmanji,SK,,,,Syria,,,,,,,,,,,,,,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Southern Kurmanji,SK,,,,Syria,,Hasaka,,Hasaka,,Hasaka,,,province,,,,high,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Southern Kurmanji,SK,,,,Iraq,,,,,,,,,,,,,,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Southern Kurmanji,SK,,,,Iraq,,Sinjar,,Şengal,,Sincar,,,region,,,,high,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Southern Kurmanji,SK,,,,Syria,,Al Qamishli,,Qamişlo,,Al Qamishli,,,,,,,low,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Southern Kurmanji,SK,,,,Turkey,,Midyat,,Midyat,,Midyat,,,,,,,low,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Anatolian Kurmanji,,,,,,,,,,,,,,,,,,,,,,
+Kurdish,Northern Kurdish,Kurmanji,,,Adyamani,Marashi,,,,,,,,,,,,,,,,,,,
+Kurdish,Northern Kurdish,Kurmanji,,,Ashiti,Aşîtî,,,,,,,,,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Northern Kurdish,Kurmanji,Southeastern Kurmanji,SEK,Badini,"Badînanî, Badînî",,,Southeast of Hakkâri Province,Semdinli,,Semdinli,,Şemdinli,Şemzînan,,district,,,,,,,,(Öpengin & Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,Southeastern Kurmanji,,Badini,Badînanî,,,,,,,,,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Northern Kurdish,Kurmanji,,,Bayezídí,"Bayezidi, Bayezîdî",,,,,,,,,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Northern Kurdish,Kurmanji,,,Bekraní,,,,,,,,,,,,,,,,,,,,
+Kurdish,Northern Kurdish,Kurmanji,,,Bírjendí,,,,,,,,,,,,,,,,,,,,
+Kurdish,Northern Kurdish,Kurmanji,,,Botaní,"Botani, Boti, Bótánî",,,,,,,,,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Northern Kurdish,Kurmanji,,,Cezîrî,,,,,,,,,,,,,,,,,,,Literature language,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Northern Kurdish,Kurmanji,,,Hekkarí,Hekari,,,,,,,,,,,,,,,,,,,
+Kurdish,Northern Kurdish,Kurmanji,,,Jiwanshírí,,,,,,,,,,,,,,,,,,,,
+Kurdish,Northern Kurdish,Kurmanji,,,Mihemedi,,,,,,,,,,,,,,,,,,,,
+Kurdish,Northern Kurdish,Kurmanji,,,Qocaní,,,,,,,,,,,,,,,,,,,,
+Kurdish,Northern Kurdish,Kurmanji,,,Senjarí,,,,,,,,,,,,,,,,,,,,
+Kurdish,Northern Kurdish,Kurmanji,,,Shemdinani,,,,,,,,,,,,,,,,,,,,
+Kurdish,Northern Kurdish,Kurmanji,,,Shikaki,,,,,,,,,,,,,,,,,,,,
+Kurdish,Northern Kurdish,Kurmanji,,,Silivi,,,,,,,,,,,,,,,,,,,,
+Kurdish,Northern Kurdish,Kurmanji,,,Surcí,,,,,,,,,,,,,,,,,,,,
+Kurdish,Northern Kurdish,Kurmanji,,,Urfí,,,,,,,,,,,,,,,,,,,,
+Kurdish,Northern Kurdish,Kurmanji,,,Yunekí,Judíkaní,,,,,,,,,,,,,,,,,,,
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Iran,,,Samalqan,,Samalqan,Samalqan,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Iran,,,Bojnerd,,Bojnerd,Bojnurd,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Iran,,,Shirvan,,Shirvan,Shirvan,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Iran,,,Qochan,,Qochan,Qochan,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Haymana,,Haymana,Haymana,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Yunak,,Yunak,Yunak,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Cihanbeyli,,Cihanbeyli,Cihanbeyli,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Bafra,,Bafra,Bafra,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Payas,,Payas,Payas,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Islahiye,,Islahiye,Islahiye,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,None,,Netû,Maras,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Antep,,Antep,Antep,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Urfa,,Riha,Urfa,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Adiyaman,,Adiyaman,Adiyaman,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Elazig,,Elazig,Elazig,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Diyarbakir,,Amed,Diyarbakir,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Batman,,Êlih,Batman,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Cizire,,Cizire,Cizire,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Bitlis,,Bedlîs,Bitlis,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Mus,,Mûş,Mus,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Sarikamis,,Di rafteran de,Sarikamis,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Ardahan,,Ardahan,Ardahan,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Kars,,Qers,Kars,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Bayazit,,Bayazit,Bayazit,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Van,,Wan,Van,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Hakkari,,Culemêrg,Hakkari,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Syria,,,Afrin,,Efrîn,Afrin,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Syria,,,Qamishli,,Reedy,Qamishli,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Iraq,,,Dohuk,,Dohuk,Dohuk,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Iraq,,,Rewandiz,,Rewandiz,Rewandiz,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Iran,,,Urmia,,Urmia,Urmia,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Iran,,,Maku,,Tam,Maku,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Azerbaijan,,,Kelbajar,,bazara mûz,Kelbajar,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Azerbaijan,,,Lachin,,çîn,Lachin,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Ankara,,Enqere,Ankara,,,City,,,,low,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Cankiri,,Cankiri,Cankiri,,,City,,,,low,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Yozgat,,Yozgat,Yozgat,,,City,,,,low,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Cure,,Derman,Curum,,,City,,,,low,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Amasya,,Amasya,Amasya,,,City,,,,low,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Tokat,,Lêxistin,Tokat,,,City,,,,low,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Sivas,,Sivas,Sivas,,,City,,,,low,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Nigde,,Ne litûder,Nigde,,,City,,,,low,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Erzinjan,,Erzincan,Erzinjan,,,City,,,,low,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Malatya,,Malatya,Malatya,,,City,,,,low,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Mardin,,Mêrdîn,Mardin,,,City,,,,low,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Turkey,,,Agri,,Agri,Agri,,,City,,,,low,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Syria,,,Aleppo,,Heleb,Aleppo,,,City,,,,low,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Iraq,,,Mosul,,Mûsil,Mosul,,,City,,,,low,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Iraq,,,Arbil,,Arbil,Arbil,,,City,,,,low,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Iran,,,Varamin,,Gelek bilez,Varamin,,,City,,,,low,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Iran,,,Sari,,Sari,Sari,,,City,,,,low,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Armenia,,,Yerevan,,Yerevan,Erivan,,,City,,,,low,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,North Kumânji,,,,,,Georgia,,,Akhaltzikhe,,Akhaltzikhe,Akhaltzikhe,,,City,,,,low,,,,(Aygen 2010)
+Kurdish,Northern Kurdish,Kurmanji,,,,,,Turkey,,,Malatya,,Malatya,Malatya,,,City,,,,middle,,,,(Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,,,,,,Turkey,,,Adiyaman,,Adiyaman,Adiyaman,,,City,,,,middle,,,,(Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,,,,,,Turkey,,,Urfa,,Riha,Urfa,,,City,,,,middle,,,,(Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,,,,,,Turkey,,,Diyarbakir,,Amed,Diyarbakir,,,City,,,,middle,,,,(Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,,,,,,Turkey,,,Mus,,Mûş,Mus,,,City,,,,middle,,,,(Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,,,,,,Turkey,,,Agri,,Agri,Agri,,,City,,,,middle,,,,(Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,,,,,,Turkey,,,Bitlis,,Bedlîs,Bitlis,,,City,,,,middle,,,,(Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,,,,,,Turkey,,,Van,,Wan,Van,,,City,,,,middle,,,,(Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,,,,,,Turkey,,,Siirt,,Sêrt,Siirt,,,City,,,,middle,,,,(Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,,,,,,Turkey,,,Hakkari,,Culemêrg,Hakkari,,,City,,,,middle,,,,(Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,,,,,,Syria,,,Qamishlo,,Qamishlo,Qamishlo,,,City,,,,middle,,,,(Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,,,,,,Iraq,,,Sinjar,,Şengal,Sinjar,,,City,,,,middle,,,,(Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,,,,,,Iraq,,,Dihok,,Dihok,Dihok,,,City,,,,middle,,,,(Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,,,,,,Iraq,,,Akrej,,acreage,Akrej,,,City,,,,middle,,,,(Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,,,,,,Iraq,,,Mosul,,Mûsil,Mosul,,,City,,,,middle,,,,(Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,,,,,,Iran,,,Orumiyeh,,Ormiyeh,Orumiyeh,,,City,,,,middle,,,,(Haig 2014)
+Kurdish,Northern Kurdish,Kurmanji,,,,,,Turkey,,,Dersim,,dersa min,Dersim,,,City,,,,middle,,,,(Salam 2020)
+Kurdish,Northern Kurdish,Kurmanji,,,,,,Syria,,,Afrin,,Efrîn,Afrin,,,City,,,,middle,,,,(Salam 2020)
+Kurdish,Northern Kurdish,Kurmanji,,,,,,Turkey,,,Diyarbakir,,Amed,Diyarbakir,,,City,,,,middle,,,,(Salam 2020)
+Kurdish,Northern Kurdish,Kurmanji,,,,,,Turkey,,,Wan,,Wan,Wan,,,City,,,,middle,,,,(Salam 2020)
+Kurdish,Central Kurdish,Sorani,,,,,8000000,,,,,,,,,,,,,,,2021,"Kurdistan Region, Iraq",,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Central Kurdish,Sorani,,,,,4000000,Iraq,,,,,,,,,,Southern,,,,-1,"Kurdistan Region, Iraq",,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Central Kurdish,Sorani,,,,,7000000,Iran,,,,,,,,,,,,,,-1,,,
+Kurdish,Central Kurdish,Sorani,,,,,-1,,,Mukri,,Mukrî,,Mukri,,,,,,,,-1,"Kurdistan Region, Iraq",,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Central Kurdish,Sorani,,,Ardalani,,,,,,,,,,,,,,,,,,,,
+Kurdish,Central Kurdish,Sorani,,,Babani,Silemani,,,,,,,,,,,,,,,,,,,
+Kurdish,Central Kurdish,Sorani,,,Bingirdi,,,,,,,,,,,,,,,,,,,,
+Kurdish,Central Kurdish,Sorani,,,Erdelanî,,,,,,,,,,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Central Kurdish,Sorani,,,Garmiyani,Germiyanî,,,,,,,,,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Central Kurdish,Sorani,,,Garrusi,,,,,,,,,,,,,,,,,,,,
+Kurdish,Central Kurdish,Sorani,,,Hawleri,Hewlêrî,,,,,,,,,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Central Kurdish,Sorani,,,Jafi,,,,,,,,,,,,,,,,,,,,
+Kurdish,Central Kurdish,Sorani,,,Judeo-Kurdish,,,,,,,,,,,,,,,,,,,,
+Kurdish,Central Kurdish,Sorani,,,Kerkuki,Kerkûkî,,,,,,,,,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Central Kurdish,Sorani,,,Khanaqini,,,,,,,,,,,,,,,,,,,,
+Kurdish,Central Kurdish,Sorani,,,Kushnawi,,,,,,,,,,,,,,,,,,,,
+Kurdish,Central Kurdish,Sorani,,,Mukriyani,"Mukri, Mokriani, Mukrî",,,Mokrian area,,Pirshahar,,Pirshahar,Piranshahr,,,principal city,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Central Kurdish,Sorani,,,Mukriyani,"Mukri, Mokriani, Mukrî",,,Mokrian area,,Mahabad,,Mahabad,Mahabad,,,principal city,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Central Kurdish,Sorani,,,Pishdari,Pijderî,,,,,,,,,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Central Kurdish,Sorani,,,Sanandaji,,,,,,,,,,,,,,,,,,,,
+Kurdish,Central Kurdish,Sorani,,,Şarbajêrî,,,,,,,,,,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Central Kurdish,Sorani,,,Sineyî,,,,,,,,,,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Central Kurdish,Sorani,,,Soranî,,,,,,,,,,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Central Kurdish,Sorani,,,Sulaimani,Silêmanî,,,,,,,,,,,,,,,,,,Literature language,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Central Kurdish,Sorani,,,Warmawa,,,,,,,,,,,,,,,,,,,,
+Kurdish,Central Kurdish,Sorani,,,,,,Iraq,,,Karkuk,,Karkuk,Karkuk,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Central Kurdish,Sorani,,,,,,Iraq,,,Sulaymaniyah,,Sulaymaniyah,Sulaymaniya,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Central Kurdish,Sorani,,,,,,Iran,,,Sanandaj,,Sanandaj,Sanandaj,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Central Kurdish,Sorani,,,,,,Iran,,,Bijar,,Bijar,Bijar,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Central Kurdish,Sorani,,,,,,Iran,,,Kamyaran,,Kamyaran,Kamyaran,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Central Kurdish,Sorani,,,,,,Iran,,,Kerend,,Zivirî,Kerend,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Central Kurdish,Sorani,,,,,,Iraq,,Shoan,,Sean,,Shoan,,,,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Central Kurdish,Sorani,,,,,,Iraq,,Chegini,,aşxane,,Chegini,,,,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Central Kurdish,Sorani,,,,,,Iraq,,Hamwand,,Hamwand,,Hamavand,,,,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Central Kurdish,Sorani,,,,,,Iraq,,Zangana,,Zangana,,Zangana,,,,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Central Kurdish,Sorani,,,,,,Iraq,,,Rewandiz,,Rewandiz,Rewandiz,,,City,,,,middle,,,,(Haig 2014)
+Kurdish,Central Kurdish,Sorani,,,,,,Iraq,,,Arbil,,Arbil,Arbil,,,City,,,,middle,,,,(Haig 2014)
+Kurdish,Central Kurdish,Sorani,,,,,,Iraq,,,Kirkuk,,Kerkûk,Kirkuk,,,City,,,,middle,,,,(Haig 2014)
+Kurdish,Central Kurdish,Sorani,,,,,,Iraq,,,Suleimaniya,,SU Class Mania,Suleimaniya,,,City,,,,middle,,,,(Haig 2014)
+Kurdish,Central Kurdish,Sorani,,,,,,Iran,,,Sardasht,,Sardasht,Sardasht,,,City,,,,middle,,,,(Haig 2014)
+Kurdish,Central Kurdish,Sorani,,,,,,Iran,,,Bukan,,Ne,Bukan,,,City,,,,middle,,,,(Haig 2014)
+Kurdish,Central Kurdish,Sorani,,,,,,Iran,,,Sanandaj,,Sanandaj,Sanandaj,,,City,,,,middle,,,,(Haig 2014)
+Kurdish,Central Kurdish,Sorani,,,,,,Iran,,,Shino,,Shino,Shino,,,City,,,,middle,,,Mukri speech zone,(Haig 2014)
+Kurdish,Central Kurdish,Sorani,,,,,,Iran,,,Mahabad,,Mahabad,Mahabad,,,City,,,,middle,,,Mukri speech zone,(Haig 2014)
+Kurdish,Central Kurdish,Sorani,,,,,,Iran,,,Miandoab,,Dua dikin,Miandoab,,,City,,,,low,,,Mukri speech zone,(Haig 2014)
+Kurdish,Central Kurdish,Sorani,,,,,,Iran,,,Pirshahar,,Pirshahar,Piranshahr,,,City,,,,low,,,Mukri speech zone,(Haig 2014)
+Kurdish,Central Kurdish,Sorani,,,,,,Iran,,,Bukan,,Ne,Bukan,,,City,,,,low,,,Mukri speech zone,(Haig 2014)
+Kurdish,Central Kurdish,Sorani,,,,,,Iran,,,Sardasht,,Sardasht,Sardasht,,,City,,,,low,,,Mukri speech zone,(Haig 2014)
+Kurdish,Central Kurdish,Sorani,,,,,,Iraq,,,Erbil,,Hewlêr,Erbil,,,city,,,,middle,,,,(Salam 2020)
+Kurdish,Central Kurdish,Sorani,,,,,,Iran,,,Sanandaj,,Sanandaj,Sanandaj,,,City,,,,middle,,,,(Salam 2020)
+Kurdish,Southern Kurdish,South Kurmânji,,,,,3700000,Iran,,,,,,,,,,,,,,2019,,"With the exception of some Kakai villages in Iraqi Kurdistan, all Ahl-e Haqq Kurds speak dialects of the South Kurdish.",
+Kurdish,Southern Kurdish,,,,,,-1,Iraq,,,,,,,,,,,,,,-1,,,
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Mahabad,,Mahabad,Mahabad,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Bijar,,Bijar,Bijar,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Sanandaj,,Sanandaj,Sanandaj,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Harunabad,,Harunabad,Harunabad,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Ilam,,ilam,Ilam,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Southern Kurdish,,,,,,,Iraq,,,Sulaymaniyah,,Sulaymaniyah,Sulaymania,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Southern Kurdish,,,,,,,Iraq,,,Kilree,,Kilree,Kilri,,,City,,,,middle,,,,(Aygen 2010)
+Kurdish,Southern Kurdish,,,,,,,Iraq,,,Arbil,,Arbil,Arbil,,,City,,,,low,,,,(Aygen 2010)
+Kurdish,Southern Kurdish,,,,,,,Iraq,,,Kirkuk,,Kerkûk,Kirkuk,,,City,,,,low,,,,(Aygen 2010)
+Kurdish,Southern Kurdish,,,,,,,Iraq,,,Khanaqin,,Xaneqîn,Khanaqin,,,City,,,,low,,,,(Aygen 2010)
+Kurdish,Southern Kurdish,,,,,,,Iraq,,,Mandali,,çember,Mandali,,,City,,,,low,,,,(Aygen 2010)
+Kurdish,Southern Kurdish,Kelhori-Feyli,,,,,,Iran,,,Kermanshah,,Kermanshah,Kermanshah,,,City,,,,middle,,,,(Haig 2014)
+Kurdish,Southern Kurdish,Kelhori-Feyli,,,,,,Iran,,,Ilam,,ilam,Ilam,,,City,,,,middle,,,,(Haig 2014)
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Krmashan,,Krmashan,Krmashan,Kermanshah,,City,,,,middle,,,,(Salam 2020)
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Chardawol,,Chardawol,Chardawol,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Sunqor,,Dil,Sunqor,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Tuyserkan,,Tuyserkan,Tuyserkan,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Kangawar,,Kengûrû,Kangawar,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Biston,,Biston,Biston,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Scene,,Scene,Sahne,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Harsin,,Harsîn,Harsin,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Sarpol,,Sarpol,Sarpol,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iraq,,,Khaneghin,,Xaneghin,Khaneghin,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iraq,,,Arkavazi,,Arkavasi,Arkawazi,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iraq,,,Malekshahi,,Malekshahi,Malekshahi,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Gilan-e-Gharb,,Gilan-e-Gharb,Gilan-e-Gharb,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Harunabad,,Harunabad,Harunabad,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Kermanshah,,Kermanshah,Kermanshah,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Iwan,,Iwan,Iwan,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iraq,,,Mandali,,çember,Mandali,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Ilam,,ilam,Ilam,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Badre,,Badre,Badre,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iraq,,,Badre,,Badre,Badre,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Mehran,,Mehran,Mehran,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Pahla,,Yekem,Pahla,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Dehloran,,Dehloran,Dehloran,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Abdanan,,Abdanan,Abdanan,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,Kolya,,Xwarin,,Kolyai,,,,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,Sanjabi,,Sanjabi,,Sanjabi,,,,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,Kalhur,,nakokî,,Kalhur,,,,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iraq,,Faili,,Dosî,,Faili,,,,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,Kordali,,Repeatedly,,Kordali,,,,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,,,Ilam,,ilam,,Ilam,,,,,,,,,,,
+Kurdish,Southern Kurdish,,,,,,,,,Kordestan,,Kordestan,,Kordestan,,,,,,,,,,,
+Kurdish,Southern Kurdish,,,,,,,Iraq,Iraqi Kurdistan,Kermanschah,,Kermanşah,,Kermanschah,,,province,,,,,,,,
+Kurdish,Southern Kurdish,,,,,,,,,South Khanaqin,,Başûrê Xaneqîn,,South Khanaqin,,,,,,,,,,,
+Kurdish,Southern Kurdish,,,,,,,,,Jaloul,,Jaloul,,Jalawla,,,,,,,,,,,
+Kurdish,Southern Kurdish,,,,,,,,,Mandali,,çember,,Mandali,,,,,,,,,,,
+Kurdish,Southern Kurdish,,Bicarî,,,,,,,,,,,,,,,,,,,,,,
+Kurdish,Southern Kurdish,,Qorwa ,Chahar Dawli xarbi,,,,,,,,,,,,,,,,,,,,,
+Kurdish,Southern Kurdish,,Kolyayî,,,,,,,,,,,,,,,,,,,,,,
+Kurdish,Southern Kurdish,,Bilawar,,,,,,,,,,,,,,,,,,,,,,
+Kurdish,Southern Kurdish,,Dinawar,,,,,,,,,,,,,,,,,,,,,,
+Kurdish,Southern Kurdish,,Sahana,Lekî-Kirmasanî,,,,,,,,,,,,,,,,,,,,,
+Kurdish,Southern Kurdish,,Kordali,Palai,,,,,,,,,,,,,,,,,,,,,
+Kurdish,Southern Kurdish,,,,Bayray,,,,,,,,,,,,,,,,,,,,
+Kurdish,Southern Kurdish,,,,Faili,"Feyli, Feylî",,Turkey,,,,,,,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Southern Kurdish,,,,Faili,"Feyli, Feylî",,Iran,,,,,,,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Southern Kurdish,,,,Faili,"Feyli, Feylî",,Iran,,Fars,,Fars,,Fars,,,province,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Southern Kurdish,,,,Faili,"Feyli, Feylî",,Iran,,Khorasan,,Xorasan,,Khorasan,,,province,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Southern Kurdish,,,,Faili,"Feyli, Feylî",,,,Alborz Mountains,,Çiyayên Alborzê,,Alborz Mountains,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Southern Kurdish,,,,Faili,"Feyli, Feylî",,Iran,,,Gilan-e-Gharb,,Gilan-e-Gharb,Gilan-e-Gharb,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,Faili,"Feyli, Feylî",,Iraq,,,Arkavazi,,Arkavasi,Arkawazi,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,Faili,"Feyli, Feylî",,Iraq,,,Malekshahi,,Malekshahi,Malekshahi,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,Faili,"Feyli, Feylî",,Iraq,,,Mandali,,çember,Mandali,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,Faili,"Feyli, Feylî",,Iran,,,Iwan,,Iwan,Iwan,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,Faili,"Feyli, Feylî",,Iraq,,Faili,,Dosî,,Faili,,,,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,Faili,"Feyli, Feylî",,Iran,,Kalhur,,nakokî,,Kalhur,,,,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,Garrusi,,,,,,,,,,,,,,,,,,,,
+Kurdish,Southern Kurdish,,,,Gûranî,Gurani,,Kurdistan,,,,,,,,,,Southern,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Southern Kurdish,,,,Gûranî,,,,,,,,,,,,,,,,,,,"not to be confused with Hawrami, which is closer to the dimili/zazaki",
+Kurdish,Southern Kurdish,,,,Kalhuri,Kelhorî,,Turkey,,,,,,,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Southern Kurdish,,,,Kalhuri,Kelhorî,,Iran,,,,,,,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Southern Kurdish,,,,Kalhuri,Kelhorî,,Iran,,Fars,,Fars,,Fars,,,province,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Southern Kurdish,,,,Kalhuri,Kelhorî,,Iran,,Khorasan,,Xorasan,,Khorasan,,,province,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Southern Kurdish,,,,Kalhuri,Kelhorî,,,,Alborz Mountains,,Çiyayên Alborzê,,Alborz Mountains,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Southern Kurdish,,,,Kermanshahi,"Kirmanshahi, Kermanşanî",,Iran,,,Harunabad,,Harunabad,Harunabad,,,City,,,,low,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,Kermanshahi,"Kirmanshahi, Kermanşanî",,Iran,,,Kermanshah,,Kermanshah,Kermanshah,,,City,,,,low,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,Kermanshahi,"Kirmanshahi, Kermanşanî",,Iran,,Sanjabi,,Sanjabi,,Sanjabi,,,,,,,low,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,Kermanshahi,"Kirmanshahi, Kermanşanî",,Iran,,Kalhur,,nakokî,,Kalhur,,,,,,,low,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,Kolyai,,,,,,,,,,,,,,,,,,,,
+Kurdish,Southern Kurdish,,,,Kordali,,,,,,,,,,,,,,,,,,,,
+Kurdish,Southern Kurdish,,,,Laki,Lekî,,Turkey,,,,,,,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Southern Kurdish,,,,Laki,Lekî,,Iran,,,,,,,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Southern Kurdish,,,,Laki,Lekî,,Iran,,Fars,,Fars,,Fars,,,province,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Southern Kurdish,,,,Laki,Lekî,,Iran,,Khorasan,,Xorasan,,Khorasan,,,province,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Southern Kurdish,,,,Laki,Lekî,,,,Alborz Mountains,,Çiyayên Alborzê,,Alborz Mountains,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Southern Kurdish,,,,Lorî,,,,,,,,,,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Southern Kurdish,,,,Sanjabi,,,,,,,,,,,,,,,,,,,,
+Kurdish,Southern Kurdish,,,,Zangana,,,Iran,,,Kermanshah,,Kermanshah,Kermanshah,,,City,,,,low,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,Zangana,,,Iran,,Kalhur,,nakokî,,Kalhur,,,,,,,low,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,Xaneqînî,,,,,,,,,,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Bijar,,Bijar,Bijār,,,City,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Qorve,,Qorve,Qorve,,,City,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Sonqor,,Dil,Sonqor,,,City,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Kandule,,Find,Kandule,,,City,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Kangavar,,Kangwar,Kangāvar,,,City,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Sahne,,Scene,Sahne,,,City,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Bisotun,,bestun,Bisotun,,,City,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Chehr,,rû,Chehr,,,City,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Harsin,,Harsîn,Harsin,,,City,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Sarpol-e Zahāb,,Sarpol-e Zahāb,Sarpol-e Zahāb,,,City,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Qasr-e Shirin,,Qesrê Şîrîn,Qasr-e Shirin,,,City,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iraq,,,Khānaqin,,Khānaqin,Khānaqin,,,City,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Gilān-e Gharb,,Gilān-e Gharb,Gilān-e Gharb,,,City,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Eslamābād-e Gharb,,Eslamābād-e Gharb,Eslamābād-e Gharb,,,City,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iraq,,,Mandali,,çember,Mandali,,,City,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Eyvan,,Balkon,Eyvān,,,City,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Ilam,,ilam,Ilām,,,City,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Badre,,Badre,Badre,,,City,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iraq,,,Warmizyar,,Warmizyar,Warmizyār,,,City,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iraq,,,Zurbātiya,,Zurbātiya,Zurbātiya,,,City,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iraq,,,Badr,,Badr,Badra,,,City,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Mehran,,Mehran,Mehrān,,,City,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Abdanan,,Abdanan,Ābdānān,,,City,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Dehlorān,,Dehlorān,Dehlorān,,,City,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Asadabad,,Assadabad,Asadābād,,,City,,,,low,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Kāmyārān,,Kāmyārān,Kāmyārān,,,City,,,,low,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Ravansar,,Ravansar,Ravānsar,,,City,,,,low,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Kerend,,Zivirî,Kerend,,,City,,,,low,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Tuyserkan,,Tuyserkan,Tuyserkān,,,City,,,,low,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iraq,,,Sheikh Sa'ad,,Şêx Sead,Sheikh Sa’ad,,,City,,,,low,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iraq,,,Ali Al-Gharbi,,Ali Xerbî,'Ali al-Gharbi,,,City,,,,low,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,Kolyā’i,,Kolyā'i,,Kolyā’i,,,,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,Dinavar,,roj aqilmend,,Dinavar,,,,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,Pāyravand,,Pāyravand,,Pāyravand,,,,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,Chamchamāl,,Çemçemal,,Chamchamāl,,,,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,Sanjabi,,Sanjabi,,Sanjābi,,,,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,Kermanshah,,Kermanshah,,Kermānshāh,,,,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,Kalhor,,kalhor,,Kalhor,,,,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,Harsan,,Jibermayî,,Harasam,,,,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,Zangane,,Zangane,,Zangane,,,,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,Arkavaz,,rakwaz,,Arkavāz,,,,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,Shirvān-Chardāvol,,Shirvān-Chardāvol,,Shirvān-Chardāvol,,,,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,Zebiri,,Zebiri,,Zebiri,,,,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,Mishkhās,,Mishkhās,,Mishkhās,,,,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,Posht-e Kuh,,Li jêr Kuh e,,Posht-e Kuh,,,,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,Shuhān,,Shuhān,,Shuhān,,,,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,,,,Iran,,Kordali,,Repeatedly,,Kordali,,,,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Laki,,,,,,,Iran,,,Nurabad,,Noorabad,Nurābād,,,City,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Laki,,,,,,,Iran,,,Aleshtar,,parçebûn,Aleshtar,,,City,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Laki,,,,,,,Iran,,,Kuhdasht,,Ko,Kuhdasht,,,City,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Laki,,,,,,,Iran,,,Darre Shahr,,bajar derbas dibin,Darre Shahr,,,City,,,,low,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Laki,,,,,,,Iran,,Seymarre,,seymarre,,Seymarre,,,,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Laki,,,,,,,Iran,,,Noorabad,,Noorabad,Nurabad,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Laki,,,,,,,Iran,,,Aleshtar,,parçebûn,Aleshtar,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Laki,,,,,,,Iran,,,Chaghalwandi,,Chaghalwandi,Chaghalwandi,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Laki,,,,,,,Iran,,,Kuhdasht,,Ko,Kuhdasht,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Laki,,,,,,,Iran,,,Khorramabad,,Xurmabad,Khorramabad,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Northern Lori,,,,,,,Iran,,,Nahāvand,,Nahāvand,Nahāvand,,,City,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Northern Lori,,,,,,,Iran,,,Borujerd,,Borujerd,Borujerd,,,City,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Northern Lori,,,,,,,Iran,,,Khorramabad,,Xurmabad,Khorramābād,,,City,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Northern Lori,,,,,,,Iran,,,Darre Shahr,,bajar derbas dibin,Darre Shahr,,,City,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Northern Lori,,,,,,,Iran,,,Dezful,,Ji hevvekirin,Dezful,,,City,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Northern Lori,,,,,,,Iran,,Gāmāsyāb,,Gāmāsyāb,,Gāmāsyāb,,,,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Northern Lori,,,,,,,Iran,,Dez,,Dez,,Dez,,,,,,,middle,,,,(Belelli 2019 (Fattah 2000))
+Kurdish,Lori,,,,,,,Iran,,,Nahavand,,Nahavand,Nahavand,Nahāvand,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Lori,,,,,,,Iran,,,Borujerd,,Borujerd,Borujerd,,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Lori,,,,,,,Iran,,,Khorramabad,,Xurmabad,Khorramabad,Khorramābād,,City,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Lori,,,,,,,Iran,,,Malayer,,Malayer,Malayer,,,City,,,,low,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Lori,,,,,,,Iran,,Chegini,,aşxane,,Chegini,,,,,,,middle,,,,(Ahmadi et al. 2023 (Fattah 2000))
+Kurdish,Southern Kurdish,,,,Bijāri,BIJ,,Iran,,,Bijar,,Bijar,Bijār,,,City,,,,middle,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,Kolyā’i,KOL,,Iran,,,Sonqor,,Dil,Sonqor,,,City,,,,middle,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Asadabad,,Assadabad,Asadābād,,,City,,,,middle,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Kandule,,Find,Kandule,,,City,,,,middle,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Kangavar,,Kangwar,Kangāvar,,,City,,,,middle,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Tuyeserkana,,Tuesercana,Tuyeserkān,,,City,,,,low,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Qorve,,Qorve,Qorve,,,City,,,,low,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,Iran,,Kolyā’i,,Kolyā'i,,Kolyā’i,,,,,,,middle,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,Iran,,Dinavar,,roj aqilmend,,Dinavar,,,,,,,middle,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,Laki-Kermānshāhi,L-KER,,Iran,,,Bisotun,,bestun,Bisotun,,,City,,,,middle,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Chehr,,rû,Chehr,,,City,,,,middle,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Kermanshah,,Kermanshah,Kermānshāh,,,City,,,,middle,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Harsin,,Harsîn,Harsin,,,City,,,,low,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Sahne,,Scene,Sahne,,,City,,,,low,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,Iran,,Chamchamāl,,Çemçemal,,Chamchamāl,,,,,,,middle,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,Kalhori-Sanjābi-Zangane,KSZ,,Iran,,,Sarpol-e Zahāb,,Sarpol-e Zahāb,Sarpol-e Zahāb,,,City,,,,middle,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Kerend,,Zivirî,Kerend,,,City,,,,middle,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Eslamābād-e Gharb,,Eslamābād-e Gharb,Eslamābād-e Gharb,,,City,,,,middle,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Gilān-e Gharb,,Gilān-e Gharb,Gilān-e Gharb,,,City,,,,middle,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Qasr-e Shirin,,Qesrê Şîrîn,Qasr-e Shirin,,,City,,,,low,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,Iraq,,,Khānaqin,,Khānaqin,Khānaqin,,,City,,,,low,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Eyvan,,Balkon,Eyvān,,,City,,,,low,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,Iran,,Kalhor,,kalhor,,Kalhor,,,,,,,middle,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,Iran,,Harsan,,Jibermayî,,Harasam,,,,,,,middle,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,Iran,,Zangane,,Zangane,,Zangane,,,,,,,middle,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,Iran,,Shirvān-Chardāvol,,Shirvān-Chardāvol,,Shirvān-Chardāvol,,,,,,,low,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,Malekshāhi,MAL,,Iraq,,,Mandali,,çember,Mandali,,,City,,,,middle,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Ilām,,Ilam,Ilām,,,City,,,,middle,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,Iraq,,,Warmizyar,,Warmizyar,Warmizyār,,,City,,,,middle,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,Iraq,,,Zurbātiya,,Zurbātiya,Zurbātiya,,,City,,,,middle,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,Iraq,,,Badr,,Badr,Badra,,,City,,,,middle,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Mehran,,Mehran,Mehrān,,,City,,,,low,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,Iran,,Posht-e Kuh,,Li jêr Kuh e,,Posht-e Kuh,,,,,,,middle,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,Iran,,Arkavaz,,rakwaz,,Arkavāz,,,,,,,low,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,Badre’i,BAD,,Iran,,,Badre,,Badre,Badre,,,City,,,,middle,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,Iran,,Zebiri,,Zebiri,,Zebiri,,,,,,,low,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,Kordali,KOR,,Iran,,,Dehlorān,,Dehlorān,Dehlorān,,,City,,,,middle,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,Iran,,,Abdanan,,Abdanan,Ābdānān,,,City,,,,middle,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,,,Shuhān,,Shuhān,,Shuhān,,,,,,,low,,,,(Belelli 2019)
+Kurdish,Southern Kurdish,,,,,,,,,Kordali,,Repeatedly,,Kordali,,,,,,,middle,,,,(Belelli 2019)
+Kurdish,Laki,,,,,,1000000,,,,,,,,,,,,,,,2019,,,
+Kurdish,Laki,,,,Pish-e Kuh,,,,,,,,,,,,,,,,,,,,
+Kurdish,Laki,,,,Posht-e Kuh,,,,,,,,,,,,,,,,,,,,
+Kurdish,Gorani-Zaza,"Goranî-Zazakî, Kirmanci",,,,,-1,Turkey,,,,,,,,,,,,,,-1,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Gorani-Zaza,"Goranî-Zazakî, Kirmanci",,,Dersim,,,,,,,,,,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Gorani-Zaza,"Goranî-Zazakî, Kirmanci",,,Hewraman,,,,,,,,,,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Gorani-Zaza,"Goranî-Zazakî, Kirmanci",,,Kakeyî,,,,,,,,,,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Gorani-Zaza,"Goranî-Zazakî, Kirmanci",,,Kerkûk,,,,,,,,,,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Gorani-Zaza,"Goranî-Zazakî, Kirmanci",,,Xarput,,,,,,,,,,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Gorani-Zaza,"Goranî-Zazakî, Kirmanci",,,Zengene,,,,,,,,,,,,,,,,,,,,SpracheNAVENDZentrumFurKurdischeStudiumeV
+Kurdish,Gorani-Zaza,"Goranî-Zazakî, Kirmanci",,,Zaza,"Zazaki, Dimili, Zazakî",2500000,Turkey,,,,,,,,,,Eastern,,,,-1,,,
+Kurdish,Gorani-Zaza,"Goranî-Zazakî, Kirmanci",,,Gorani,,500000,,,,,,,,,,,,,,,,,,
+Kurdish,Gorani-Zaza,"Goranî-Zazakî, Kirmanci",,,Gorani,,-1,Iran,,,,,,,,,,,,,,-1,,,
+Kurdish,Gorani-Zaza,"Goranî-Zazakî, Kirmanci",,,Gorani,,-1,Iraq,,,,,,,,,,,,,,-1,,,
+Kurdish,Gorani-Zaza,Zazaki-Gorani,,,,,,Turkey,,,Dersim,,Dêrsim,Dersim,,,City,,,,middle,,,,(Salam 2020)
+Kurdish,Dimili/Zâzâki,Zazaki/Dimili,,,,,,Turkey,,,Tunceli,,Tuncelî,Tunçeli,,,City,,,,middle,,,"to include Shabaki, Sivereki, Aksehiri",(Aygen 2010)
+Kurdish,Dimili/Zâzâki,Zazaki/Dimili,,,,,,Turkey,,,Bingol,,Bingol,Bingöl,,,City,,,,middle,,,"to include Shabaki, Sivereki, Aksehiri",(Aygen 2010)
+Kurdish,Dimili/Zâzâki,Zazaki/Dimili,,,,,,Turkey,,,Divided,,Dabeş kirin,Bolu,,,City,,,,low,,,"to include Shabaki, Sivereki, Aksehiri",(Aygen 2010)
+Kurdish,Dimili/Zâzâki,Zazaki/Dimili,,,,,,Turkey,,,Kirsehir,,Kirsehir,Kirsehir,,,City,,,,low,,,"to include Shabaki, Sivereki, Aksehiri",(Aygen 2010)
+Kurdish,Dimili/Zâzâki,Zazaki/Dimili,,,,,,Turkey,,,Erzinjan,,Erzincan,Erzinjan,,,City,,,,low,,,"to include Shabaki, Sivereki, Aksehiri",(Aygen 2010)
+Kurdish,Dimili/Zâzâki,Zazaki/Dimili,,,,,,Turkey,,,Agri,,Agri,Agri,,,City,,,,low,,,"to include Shabaki, Sivereki, Aksehiri",(Aygen 2010)
+Kurdish,Dimili/Zâzâki,Zazaki/Dimili,,,,,,Iraq,,,Mosul,,Mûsil,Mosul,,,City,,,,low,,,"to include Shabaki, Sivereki, Aksehiri",(Aygen 2010)
+Kurdish,Dimili/Zâzâki,Zazaki/Dimili,,,,,,Turkey,,,Tunceli,,Tuncelî,Tunceli,,,City,,,,middle,,,,(Haig 2014)
+Kurdish,Dimili/Zâzâki,Zazaki/Dimili,,,,,,Turkey,,,Bingol,,Bingol,Bingol,,,City,,,,middle,,,,(Haig 2014)
+Kurdish,Dimili/Zâzâki,Zazaki/Dimili,,,,,,Turkey,,,Elazig,,Elazig,Elazig,,,City,,,,middle,,,,(Haig 2014)
+Kurdish,Dimili/Zâzâki,Zazaki/Dimili,,,,,,Turkey,,,snake,,mar,Siverek,,,City,,,,middle,,,,(Haig 2014)
+Kurdish,Gurâni,,,,,,,Iran,,,Klardash,,Zelalkirin,Klardash,,,City,,,,middle,,,"to include Pahli/Fayli, Laki, Hewrâmi",(Aygen 2010)
+Kurdish,Gurâni,,,,,,,Iran,,,Hamadan,,Çol,Hamadan,,,City,,,,middle,,,"to include Pahli/Fayli, Laki, Hewrâmi",(Aygen 2010)
+Kurdish,Gurâni,,,,,,,Iran,,,Malayirr,,Malayirr,Malayirr,,,City,,,,middle,,,"to include Pahli/Fayli, Laki, Hewrâmi",(Aygen 2010)
+Kurdish,Gurâni,,,,,,,Iran,,,Nihawand,,Şîyar be,Nihawand,,,City,,,,middle,,,"to include Pahli/Fayli, Laki, Hewrâmi",(Aygen 2010)
+Kurdish,Gurâni,,,,,,,Iran,,,Tutirkan,,tirşkirî,Tuisirkan,,,City,,,,middle,,,"to include Pahli/Fayli, Laki, Hewrâmi",(Aygen 2010)
+Kurdish,Gurâni,,,,,,,Iran,,,Pawa,,lining,Pawa,,,City,,,,middle,,,"to include Pahli/Fayli, Laki, Hewrâmi",(Aygen 2010)
+Kurdish,Gurâni,,,,,,,Iran,,,Pebla,,Bergik,Pebla,,,City,,,,middle,,,"to include Pahli/Fayli, Laki, Hewrâmi",(Aygen 2010)
+Kurdish,Gurâni,,,,,,,Iraq,,,Kirkuk,,Kerkûk,Kirkuk,,,City,,,,middle,,,"to include Pahli/Fayli, Laki, Hewrâmi",(Aygen 2010)
+Kurdish,Gurâni,,,,,,,Iraq,,,Mandali,,çember,Mandali,,,City,,,,middle,,,"to include Pahli/Fayli, Laki, Hewrâmi",(Aygen 2010)
+Kurdish,Gurâni,,,,,,,Iraq,,,Badr,,Badr,Badra,,,City,,,,middle,,,"to include Pahli/Fayli, Laki, Hewrâmi",(Aygen 2010)
+Kurdish,Gurâni,,,,,,,Iran,,,Ridbar,,Ridbar,Rudbar,,,City,,,,low,,,"to include Pahli/Fayli, Laki, Hewrâmi",(Aygen 2010)
+Kurdish,Gurâni,,,,,,,Iran,,,Kirmanshah,,Kirmanşah,Kirmanshah,,,City,,,,low,,,"to include Pahli/Fayli, Laki, Hewrâmi",(Aygen 2010)
+Kurdish,Gurâni,,,,,,,Iran,,,Ilam,,ilam,Ilam,,,City,,,,low,,,"to include Pahli/Fayli, Laki, Hewrâmi",(Aygen 2010)
+Kurdish,Gurâni,,,,,,,Iraq,,,Khanaqin,,Xaneqîn,Khanaqin,,,City,,,,low,,,"to include Pahli/Fayli, Laki, Hewrâmi",(Aygen 2010)
+Kurdish,Gurani/Hawrami,,,,,,,Iran,,,Pave,,Pêçan,Pave,,,City,,,,middle,,,,(Haig 2014)

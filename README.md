@@ -73,14 +73,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Project Name Screen Shot][project-screenshot]](https://example.com)
+[![Project Name Screen Shot][project-screenshot]](https://github.com/Low-ResourceDialectology/DialectMapping)
 
 This will be an interactive map for various dialects from low-resource languages, with a focus on and starting with Kurdish.
 
 There exist a plathora of Kurdish dialects that are often unintelligible to the native speakers of each other. However, Kurdish is considered to be a dialect continuum with at times sudden language shifts and sometimes smooth transitions from one dialect to the neighboring one.
 At first it might seem confusing and counter intuitive that it has been found, that Central Kurdish is considered to be very understandable by speakers of Northern Kurdish and Southern Kurdish to be understandable by speakers of Central Kurdish- but speakers of Northern Kurdish hardly being able to understand Southern Kurdish. An explanation for this can be found in the prior mentioned dialect continuum- where "Central Kurdish" is not necessarily "Central Kurdish", since there exist many differen subdialects of Central Kurdish.
 
-[![Project Motivation Screen Shot][project-idea]](https://example.com)
+[![Project Motivation Screen Shot][project-idea]](https://github.com/Low-ResourceDialectology/DialectMapping)
 
 Utilizing an interactive map, visualizing the different aspects and geographical distribution of the separate dialects might enable new insights and at the very least an easier understanding of Kurdish linguistics.
 
@@ -131,24 +131,24 @@ _For more examples, please refer to the [Documentation](https://github.com/chris
 - [x] Set up this Repository
 - [ ] Section 1: Dialect Information
     - [ ] Classification (Typology)
-        - [ ] Languege Family
-        - [ ] (Sub-)Dialect(-Group)
+        - [ ] Languege Family (partially)
+        - [ ] (Sub-)Dialect(-Group) (partially)
         - [ ] Linguistic Information
     - [ ] (Meta) Data
-        - [ ] Areas where spoken
+        - [ ] Areas where spoken (partially)
         - [ ] Native Speaker
-        - [ ] Link to Publications
+        - [ ] Link to Publications (partially)
 - [ ] Section 2: Geolocation Data
     - [ ] Data Source(s)
         - [ ] Comfortable Access
         - [ ] Up to date
-        - [ ] Proper Format
+        - [ ] Proper Format (partially)
     - [ ] Preprocess and Aggregate
         - [ ] Normalize Naming
         - [ ] Link GeoData to Dialect Data
 - [ ] Section 3: Interactive Map
     - [ ] Map Functionalities
-        - [ ] R-Scripts and Packages
+        - [ ] R-Scripts and Packages (partially)
         - [ ] Accessible Visualisations
         - [ ] Stress-Testing
     - [ ] Online Hosting
@@ -192,10 +192,11 @@ Distributed under the Apache License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Christian Schuler - [@christians89898](https://twitter.com/christians89898) - christianschuler8989(4T)gmail.com
+[Christian Schuler](https://christianschuler8989.github.io/) - christianschuler8989(4T)gmail.com
 
 Raman Ahmad - 
 
+Related project of the authors: [Analysis of Phonology and Morphology in the Kobani Dialect ](https://github.com/Low-ResourceDialectology/KobaniAnalysis)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -227,6 +228,6 @@ A list of helpful resources we would like to give credit to:
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/christian-schuler-59090a177/
 [project-screenshot]: images/DialectMapping-Concept.png
-[project-idea]: images/DialectMapping-Similarity.png
+[project-idea]: images/Kurdish-PercievedLanguageSimilarity.png
 
 
