@@ -90,10 +90,10 @@ Utilizing an interactive map, visualizing the different aspects and geographical
 
 ## Poster presented at the ICKL-6 in 2023
 
-The [ICKL](https://www.uni-frankfurt.de/131978051/Call-for-Papers-ICKL-6) is a biannual conference serving as a forum of scientific exchange for linguists working on any aspect of Kurdish, including the interactions with its neighboring languages. 
+The International Conference on Kurdish Linguistics ([ICKL](https://www.uni-frankfurt.de/131978051/Call-for-Papers-ICKL-6)) is a biannual conference serving as a forum of scientific exchange for linguists working on any aspect of Kurdish, including the interactions with its neighboring languages. 
 
 [![Project Poster Screen Shot][project-poster-ickl-png]](https://github.com/Low-ResourceDialectology/DialectMapping)
-[The poster as pdf](https://github.com/Low-ResourceDialectology/DialectMapping/images/2023_ICKL_DialectMapping_Poster.pdf)
+[The poster as pdf](https://github.com/Low-ResourceDialectology/DialectMapping/blob/main/images/2023_ICKL_DialectMapping_Poster.pdf)
 
 
 ### Built With
@@ -103,7 +103,6 @@ List of major frameworks/libraries used to bootstrap this project.
 * R
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
