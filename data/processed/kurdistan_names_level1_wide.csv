@@ -1,0 +1,396 @@
+"GID_0"	"COUNTRY"	"GID_1"	"NAME_1"	"VARNAME_1"	"NL_NAME_1"	"TYPE_1"	"ENGTYPE_1"	"CC_1"	"HASC_1"	"ISO_1"
+"AFG"	"Afghanistan"	"AFG.1_1"	"Badakhshan"	"Badahšan"	NA	"Velayat"	"Province"	NA	"AF.BD"	NA
+"AFG"	"Afghanistan"	"AFG.2_1"	"Badghis"	"Badghes|Badghisat|Badgis"	NA	"Velayat"	"Province"	NA	"AF.BG"	"AF-BDG"
+"AFG"	"Afghanistan"	"AFG.3_1"	"Baghlan"	"Baglan|Bughlan"	NA	"Velayat"	"Province"	NA	"AF.BL"	"AF-BGL"
+"AFG"	"Afghanistan"	"AFG.4_1"	"Balkh"	"Balh|Mazar-i-Sharif|Mazar"	NA	"Velayat"	"Province"	NA	"AF.BK"	"AF-BAL"
+"AFG"	"Afghanistan"	"AFG.5_1"	"Bamyan"	NA	NA	"Velayat"	"Province"	NA	"AF.BM"	"AF-BAM"
+"AFG"	"Afghanistan"	"AFG.6_1"	"Daykundi"	NA	NA	"Velayat"	"Province"	NA	"AF.DK"	"AF-DAY"
+"AFG"	"Afghanistan"	"AFG.7_1"	"Farah"	NA	NA	"Velayat"	"Province"	NA	"AF.FH"	"AF-FRA"
+"AFG"	"Afghanistan"	"AFG.8_1"	"Faryab"	"Fariab|Maimana|Meymaneh"	NA	"Velayat"	"Province"	NA	"AF.FB"	"AF-FYB"
+"AFG"	"Afghanistan"	"AFG.9_1"	"Ghazni"	"Gazni"	NA	"Velayat"	"Province"	NA	"AF.GZ"	"AF-GHA"
+"AFG"	"Afghanistan"	"AFG.10_1"	"Ghor"	"Gawr|Ghore|Ghour|Ghur"	NA	"Velayat"	"Province"	NA	"AF.GR"	"AF-GHO"
+"AFG"	"Afghanistan"	"AFG.11_1"	"Hilmand"	"Girishk|Hilmend"	NA	"Velayat"	"Province"	NA	"AF.HM"	NA
+"AFG"	"Afghanistan"	"AFG.12_1"	"Hirat"	NA	NA	"Velayat"	"Province"	NA	"AF.HR"	NA
+"AFG"	"Afghanistan"	"AFG.13_1"	"Jawzjan"	"Jaozjan|Jozjan|Juzjan|Jouzjan|Sh"	NA	"Velayat"	"Province"	NA	"AF.JW"	NA
+"AFG"	"Afghanistan"	"AFG.14_1"	"Kabul"	"Cabul|Kabol|Kaboul"	NA	"Velayat"	"Province"	NA	"AF.KB"	"AF-KAB"
+"AFG"	"Afghanistan"	"AFG.15_1"	"Kandahar"	"Qandahar"	NA	"Velayat"	"Province"	NA	"AF.KD"	"AF-KAN"
+"AFG"	"Afghanistan"	"AFG.16_1"	"Kapisa"	"Kapesa"	NA	"Velayat"	"Province"	NA	"AF.KP"	NA
+"AFG"	"Afghanistan"	"AFG.17_1"	"Khost"	NA	NA	"Velayat"	"Province"	NA	"AF.KT"	"AF-KHO"
+"AFG"	"Afghanistan"	"AFG.18_1"	"Kunar"	"Konarha|Kunarha"	NA	"Velayat"	"Province"	NA	"AF.KR"	"AF-KNR"
+"AFG"	"Afghanistan"	"AFG.19_1"	"Kunduz"	"Kondoz|Qonduz|Qunduz"	NA	"Velayat"	"Province"	NA	"AF.KZ"	"AF-KDZ"
+"AFG"	"Afghanistan"	"AFG.20_1"	"Laghman"	"Lagman"	NA	"Velayat"	"Province"	NA	"AF.LA"	"AF-LAG"
+"AFG"	"Afghanistan"	"AFG.21_1"	"Logar"	"Lawghar|Loghar"	NA	"Velayat"	"Province"	NA	"AF.LW"	"AF-LOG"
+"AFG"	"Afghanistan"	"AFG.22_1"	"Nangarhar"	"Ningrahar|Eastern Province"	NA	"Velayat"	"Province"	NA	"AF.NG"	"AF-NAN"
+"AFG"	"Afghanistan"	"AFG.23_1"	"Nimroz"	"Neemroze|Nimrod|Nimrooz|Nimroze|"	NA	"Velayat"	"Province"	NA	"AF.NM"	"AF-NIM"
+"AFG"	"Afghanistan"	"AFG.24_1"	"Nuristan"	"Nooristan|Nuristão"	NA	"Velayat"	"Province"	NA	"AF.NR"	NA
+"AFG"	"Afghanistan"	"AFG.25_1"	"Paktika"	"Paktiya|Paktya|Southern Province"	NA	"Velayat"	"Province"	NA	"AF.PK"	NA
+"AFG"	"Afghanistan"	"AFG.26_1"	"Paktya"	"Paktiya|Southern Province"	NA	"Velayat"	"Province"	NA	"AF.PT"	NA
+"AFG"	"Afghanistan"	"AFG.27_1"	"Panjshir"	NA	NA	"Velayat"	"Province"	NA	"AF.PJ"	NA
+"AFG"	"Afghanistan"	"AFG.28_1"	"Parwan"	"Charikar"	NA	"Velayat"	"Province"	NA	"AF.PV"	"AF-PAR"
+"AFG"	"Afghanistan"	"AFG.29_1"	"Samangan"	NA	NA	"Velayat"	"Province"	NA	"AF.SM"	"AF-SAM"
+"AFG"	"Afghanistan"	"AFG.30_1"	"Sari Pul"	"Sar-e Pul|Saripol"	NA	"Velayat"	"Province"	NA	"AF.SP"	NA
+"AFG"	"Afghanistan"	"AFG.31_1"	"Takhar"	"Takar"	NA	"Velayat"	"Province"	NA	"AF.TK"	"AF-TAK"
+"AFG"	"Afghanistan"	"AFG.32_1"	"Uruzgan"	"Urozgan"	NA	"Velayat"	"Province"	NA	"AF.OZ"	"AF-URU"
+"AFG"	"Afghanistan"	"AFG.33_1"	"Wardak"	"Verdak|Wardag|Maiden"	NA	"Velayat"	"Province"	NA	"AF.VR"	NA
+"AFG"	"Afghanistan"	"AFG.34_1"	"Zabul"	"Zubul|Zaboul"	NA	"Velayat"	"Province"	NA	"AF.ZB"	NA
+"ARM"	"Armenia"	"ARM.1_1"	"Aragatsotn"	"Aragacot'n"	"Արագածոտն|Арагацотн"	"Marz"	"Province"	NA	"AM.AG"	NA
+"ARM"	"Armenia"	"ARM.2_1"	"Ararat"	NA	"Արարատ|Арарат"	"Marz"	"Province"	NA	"AM.AR"	"AM-AR"
+"ARM"	"Armenia"	"ARM.3_1"	"Armavir"	NA	"Արմավիր|Армавир"	"Marz"	"Province"	NA	"AM.AV"	"AM-AV"
+"ARM"	"Armenia"	"ARM.4_1"	"Erevan"	"Yerevan"	"Երևան|Ереван"	"Kaghak"	"City"	NA	"AM.ER"	"AM-ER"
+"ARM"	"Armenia"	"ARM.5_1"	"Gegharkunik"	"Gelark'unik'"	"Գեղարքունիք|Гегаркуник"	"Marz"	"Province"	NA	"AM.GR"	NA
+"ARM"	"Armenia"	"ARM.6_1"	"Kotayk"	"Kotaik|Kotayk'"	"Կոտայք|Котайк"	"Marz"	"Province"	NA	"AM.KT"	NA
+"ARM"	"Armenia"	"ARM.7_1"	"Lori"	"Loṙi"	"Լոռի|Лори"	"Marz"	"Province"	NA	"AM.LO"	"AM-LO"
+"ARM"	"Armenia"	"ARM.8_1"	"Shirak"	"Širak"	"Շիրակ|Ширак"	"Marz"	"Province"	NA	"AM.SH"	NA
+"ARM"	"Armenia"	"ARM.9_1"	"Syunik"	"Syunik'"	"Սյունիք|Сюник"	"Marz"	"Province"	NA	"AM.SU"	NA
+"ARM"	"Armenia"	"ARM.10_1"	"Tavush"	"Tavuš"	"Տավուշ|Тавуш"	"Marz"	"Province"	NA	"AM.TV"	NA
+"ARM"	"Armenia"	"ARM.11_1"	"Vayots Dzor"	"Vayoc'Jor"	"Վայոց Ձոր|Вайоц Дзор"	"Marz"	"Province"	NA	"AM.VD"	NA
+"AZE"	"Azerbaijan"	"AZE.1_1"	"Absheron"	NA	NA	"İqtisadi Rayonu"	"Region"	NA	NA	NA
+"AZE"	"Azerbaijan"	"AZE.2_1"	"Aran"	NA	NA	"İqtisadi Rayonu"	"Region"	NA	NA	NA
+"AZE"	"Azerbaijan"	"AZE.3_1"	"Daglig-Shirvan"	NA	NA	"İqtisadi Rayonu"	"Region"	NA	NA	NA
+"AZE"	"Azerbaijan"	"AZE.4_1"	"Ganja-Qazakh"	NA	NA	"İqtisadi Rayonu"	"Region"	NA	NA	NA
+"AZE"	"Azerbaijan"	"AZE.5_1"	"Kalbajar-Lachin"	NA	NA	"İqtisadi Rayonu"	"Region"	NA	NA	NA
+"AZE"	"Azerbaijan"	"AZE.6_1"	"Lankaran"	NA	NA	"İqtisadi Rayonu"	"Region"	NA	NA	"AZ-LA"
+"AZE"	"Azerbaijan"	"AZE.7_1"	"Nakhchivan"	NA	NA	"İqtisadi Rayonu"	"Region"	NA	NA	NA
+"AZE"	"Azerbaijan"	"AZE.8_1"	"Quba-Khachmaz"	NA	NA	"İqtisadi Rayonu"	"Region"	NA	NA	NA
+"AZE"	"Azerbaijan"	"AZE.9_1"	"Shaki-Zaqatala"	NA	NA	"İqtisadi Rayonu"	"Region"	NA	NA	NA
+"AZE"	"Azerbaijan"	"AZE.10_1"	"Yukhari-Karabakh"	NA	NA	"İqtisadi Rayonu"	"Region"	NA	NA	NA
+"BHR"	"Bahrain"	"BHR.1_1"	"Capital"	"Muhafazat al-'Asimah"	NA	"Muhafazah"	"Governorate"	NA	"BH.CA"	NA
+"BHR"	"Bahrain"	"BHR.3_1"	"Muharraq"	"Muhafazat al-Muharaq"	NA	"Muhafazah"	"Governorate"	NA	"BH.MU"	NA
+"BHR"	"Bahrain"	"BHR.4_1"	"Northern"	"al-Muhafazah ash-Shamaliyah"	NA	"Muhafazah"	"Governorate"	NA	"BH.NO"	NA
+"BHR"	"Bahrain"	"BHR.5_1"	"Southern"	"al-Muhafazah al-Janobiyah"	NA	"Muhafazah"	"Governorate"	NA	"BH.SO"	NA
+"CYP"	"Cyprus"	"CYP.1_1"	"Famagusta"	"Famgusta|Ammochostos|Famagosta|F"	"Αμμόχωστος"	"Eparchies"	"District"	NA	"CY.FA"	NA
+"CYP"	"Cyprus"	"CYP.2_1"	"Larnaca"	"Lárnaka|Larnaka|İskele"	"Λάρνακα"	"Eparchies"	"District"	NA	"CY.LA"	NA
+"CYP"	"Cyprus"	"CYP.3_1"	"Limassol"	"Limasol|Leymosun"	"Λεμεσός"	"Eparchies"	"District"	NA	"CY.LI"	NA
+"CYP"	"Cyprus"	"CYP.4_1"	"Nicosia"	"Lefkosía|Levkosía|Lefkosa|Nicosi"	"Λευκωσία"	"Eparchies"	"District"	NA	"CY.NI"	NA
+"CYP"	"Cyprus"	"CYP.5_1"	"Paphos"	"Baf|Pafos|Gazibaf"	"Πάφος"	"Eparchies"	"District"	NA	"CY.PA"	NA
+"EGY"	"Egypt"	"EGY.1_1"	"Ad Daqahliyah"	"Al Daqahliyah|Dacahlia|Dagahlia|"	"الدقهلية"	"Muhafazah"	"Governorate"	NA	"EG.DQ"	"EG-DK"
+"EGY"	"Egypt"	"EGY.2_1"	"Al Bahr al Ahmar"	"Mar Rojo|Mar Vermelho|Mer Rouge|"	"محافظة البحر الأحمر"	"Muhafazah"	"Governorate"	NA	"EG.BA"	"EG-BA"
+"EGY"	"Egypt"	"EGY.3_1"	"Al Buhayrah"	"Beheira|Behera|El Buhayra|Béhéra"	"البحيرة"	"Muhafazah"	"Governorate"	NA	"EG.BH"	"EG-BH"
+"EGY"	"Egypt"	"EGY.4_1"	"Al Fayyum"	"El Faiyum|el Fayoum|Faium|Faiyūm"	"محافظة الفيوم"	"Muhafazah"	"Governorate"	NA	"EG.FY"	"EG-FYM"
+"EGY"	"Egypt"	"EGY.5_1"	"Al Gharbiyah"	"al-Garbīyah|El Gharbiya|Garbia|G"	"محافظة الغربية"	"Muhafazah"	"Governorate"	NA	"EG.GH"	"EG-GH"
+"EGY"	"Egypt"	"EGY.6_1"	"Al Iskandariyah"	"Alexandria|Alexandrie|El Iskanda"	"محافظة الإسكندرية"	"Muhafazah"	"Governorate"	NA	"EG.IK"	"EG-ALX"
+"EGY"	"Egypt"	"EGY.7_1"	"Al Isma`iliyah"	"As Ismailiyah|Ismailia|Ismaïlia|"	"محافظة الإسماعيلية"	"Muhafazah"	"Governorate"	NA	"EG.IS"	NA
+"EGY"	"Egypt"	"EGY.8_1"	"Al Jizah"	"El Giza|El Gīzah|Gizeh|Giza|Guiz"	NA	"Muhafazah"	"Governorate"	NA	"EG.JZ"	"EG-GZ"
+"EGY"	"Egypt"	"EGY.9_1"	"Al Minufiyah"	"Menoufieh|Menufia|Menūfīya|Minūf"	"محافظة المنوفية"	"Muhafazah"	"Governorate"	NA	"EG.MF"	"EG-MNF"
+"EGY"	"Egypt"	"EGY.10_1"	"Al Minya"	"Minia|Minieh|Menia|Minya"	NA	"Muhafazah"	"Governorate"	NA	"EG.MN"	"EG-MN"
+"EGY"	"Egypt"	"EGY.11_1"	"Al Qahirah"	"Cairo|El Cairo|El Qahira|Le Cair"	NA	"Muhafazah"	"Governorate"	NA	"EG.QH"	"EG-C"
+"EGY"	"Egypt"	"EGY.12_1"	"Al Qalyubiyah"	"Caliubia|Kalioubieh|Kalioubiya|Q"	"محافظة القليوبية"	"Muhafazah"	"Governorate"	NA	"EG.QL"	"EG-KB"
+"EGY"	"Egypt"	"EGY.13_1"	"Al Uqsur"	"Luxor"	NA	"Muhafazah"	"Governorate"	NA	"EG.UQ"	"EG-LX"
+"EGY"	"Egypt"	"EGY.14_1"	"Al Wadi al Jadid"	"Al Wadi/Al Jadid|El-Wadi El-Gidi"	"محافظة الوادي الجديد‎"	"Muhafazah"	"Governorate"	NA	"EG.WJ"	"EG-WAD"
+"EGY"	"Egypt"	"EGY.15_1"	"As Suways"	"El Suweiz|Es Suweis|Suez"	"محافظة السويس"	"Muhafazah"	"Governorate"	NA	"EG.SW"	"EG-SUZ"
+"EGY"	"Egypt"	"EGY.16_1"	"Ash Sharqiyah"	"Charkieh|Sharqia|Sharqīya|Sharqu"	"محافظة الشرقية‎"	"Muhafazah"	"Governorate"	NA	"EG.SQ"	"EG-SHR"
+"EGY"	"Egypt"	"EGY.17_1"	"Aswan"	"Assouan|Assuã|Assuán|Syene"	"محافظة أسوان"	"Muhafazah"	"Governorate"	NA	"EG.AN"	"EG-ASN"
+"EGY"	"Egypt"	"EGY.18_1"	"Asyut"	"Asyiut|Assiout|Assiut|Assyut|Asy"	NA	"Muhafazah"	"Governorate"	NA	"EG.AT"	"EG-AST"
+"EGY"	"Egypt"	"EGY.19_1"	"Bani Suwayf"	"Beni Suwayf|Beni Souef|Beni Suef"	"محافظة بنى سويف"	"Muhafazah"	"Governorate"	NA	"EG.BN"	"EG-BNS"
+"EGY"	"Egypt"	"EGY.20_1"	"Bur Sa`id"	"Bur Said|Canal|Port Said|Port-Sa"	"محافظة بورسعيد"	"Muhafazah"	"Governorate"	NA	"EG.BS"	NA
+"EGY"	"Egypt"	"EGY.21_1"	"Dumyat"	"Damietta|Damiette|Dumiāt"	NA	"Muhafazah"	"Governorate"	NA	"EG.DT"	"EG-DT"
+"EGY"	"Egypt"	"EGY.22_1"	"Janub Sina'"	"Janub Sina|Sina al-Janubiyah|Sin"	"محافظة جنوب سيناء"	"Muhafazah"	"Governorate"	NA	"EG.JS"	"EG-JS"
+"EGY"	"Egypt"	"EGY.23_1"	"Kafr ash Shaykh"	"Kafr-El-Sheikh|Kafr ash Shaikh|K"	"محافظة كفر الشيخ"	"Muhafazah"	"Governorate"	NA	"EG.KS"	"EG-KFS"
+"EGY"	"Egypt"	"EGY.24_1"	"Matrouh"	"Marsā Matrūh|Mersa Matruh|Wester"	"محافظة مطروح"	"Muhafazah"	"Governorate"	NA	"EG.MT"	NA
+"EGY"	"Egypt"	"EGY.25_1"	"Qina"	"Kena|Qena|Quena"	"محافظة قنا"	"Muhafazah"	"Governorate"	NA	"EG.QN"	"EG-KN"
+"EGY"	"Egypt"	"EGY.26_1"	"Shamal Sina'"	"Shamal Sina|Nord Sinaï|North Sin"	"محافظة شمال سيناء"	"Muhafazah"	"Governorate"	NA	"EG.SS"	"EG-SIN"
+"EGY"	"Egypt"	"EGY.27_1"	"Suhaj"	"Girga|Girgeh|Sawhāj|Sohag|Suhag"	NA	"Muhafazah"	"Governorate"	NA	"EG.SJ"	"EG-SHG"
+"GEO"	"Georgia"	"GEO.1_1"	"Abkhazia"	"Sokhumi"	NA	"Avtonomiuri Respublika"	"Autonomous Republic"	NA	"GE.AB"	"GE-AB"
+"GEO"	"Georgia"	"GEO.2_1"	"Ajaria"	"Batumi"	NA	"Avtonomiuri Respublika"	"Autonomous Republic"	NA	"GE.AJ"	"GE-AJ"
+"GEO"	"Georgia"	"GEO.3_1"	"Guria"	"Ozurgeti"	NA	"Region"	"Region"	NA	"GE.GU"	"GE-GU"
+"GEO"	"Georgia"	"GEO.4_1"	"Imereti"	"Kutaisi"	NA	"Region"	"Region"	NA	"GE.IM"	"GE-IM"
+"GEO"	"Georgia"	"GEO.5_1"	"Kakheti"	"Telavi"	NA	"Region"	"Region"	NA	"GE.KA"	NA
+"GEO"	"Georgia"	"GEO.6_1"	"Kvemo Kartli"	"Rustavi"	NA	"Region"	"Region"	NA	"GE.KK"	"GE-KK"
+"GEO"	"Georgia"	"GEO.7_1"	"Mtskheta-Mtianeti"	"Mtskheta"	NA	"Region"	"Region"	NA	"GE.MM"	"GE-MM"
+"GEO"	"Georgia"	"GEO.8_1"	"Racha-Lechkhumi-Kvemo Svaneti"	"Ambrolauri"	NA	"Region"	"Region"	NA	"GE.RK"	NA
+"GEO"	"Georgia"	"GEO.9_1"	"Samegrelo-Zemo Svaneti"	"Zugdidi"	NA	"Region"	"Region"	NA	"GE.SZ"	"GE-SZ"
+"GEO"	"Georgia"	"GEO.10_1"	"Samtskhe-Javakheti"	"Akhaltsikhe"	NA	"Region"	"Region"	NA	"GE.SJ"	"GE-SJ"
+"GEO"	"Georgia"	"GEO.11_1"	"Shida Kartli"	"Gori"	NA	"Region"	"Region"	NA	"GE.SD"	"GE-SK"
+"GEO"	"Georgia"	"GEO.12_1"	"Tbilisi"	NA	NA	"K'alak'i"	"Independent City"	NA	"GE.TB"	"GE-TB"
+"IRN"	"Iran"	"IRN.1_1"	"Alborz"	NA	"استان البرز"	"Ostan"	"Province"	NA	"IR.AL"	"IR-30"
+"IRN"	"Iran"	"IRN.2_1"	"Ardebil"	"Ardabil"	NA	"Ostan"	"Province"	NA	"IR.AR"	NA
+"IRN"	"Iran"	"IRN.3_1"	"Bushehr"	"Banader va Jazayer-e Khalij-e Fa"	NA	"Ostan"	"Province"	NA	"IR.BS"	"IR-18"
+"IRN"	"Iran"	"IRN.4_1"	"Chahar Mahall and Bakhtiari"	"Bakhtiari|Chaharmahal va Bakhtiy"	NA	"Ostan"	"Province"	NA	"IR.CM"	NA
+"IRN"	"Iran"	"IRN.5_1"	"East Azarbaijan"	"Azarbayjan-e Khavari|Azarbaijan-"	NA	"Ostan"	"Province"	NA	"IR.EA"	NA
+"IRN"	"Iran"	"IRN.6_1"	"Esfahan"	"Isfahan|Ispahan"	NA	"Ostan"	"Province"	NA	"IR.ES"	"IR-10"
+"IRN"	"Iran"	"IRN.7_1"	"Fars"	NA	NA	"Ostan"	"Province"	NA	"IR.FA"	"IR-07"
+"IRN"	"Iran"	"IRN.8_1"	"Gilan"	NA	NA	"Ostan"	"Province"	NA	"IR.GI"	"IR-01"
+"IRN"	"Iran"	"IRN.9_1"	"Golestan"	NA	NA	"Ostan"	"Province"	NA	"IR.GO"	"IR-27"
+"IRN"	"Iran"	"IRN.10_1"	"Hamadan"	"Hamedan"	NA	"Ostan"	"Province"	NA	"IR.HD"	"IR-13"
+"IRN"	"Iran"	"IRN.11_1"	"Hormozgan"	"Banader va Jazayer-e Bahr-e Oman"	NA	"Ostan"	"Province"	NA	"IR.HG"	"IR-22"
+"IRN"	"Iran"	"IRN.12_1"	"Ilam"	"Ilam and Poshtkuh"	NA	"Ostan"	"Province"	NA	"IR.IL"	"IR-16"
+"IRN"	"Iran"	"IRN.13_1"	"Kerman"	NA	NA	"Ostan"	"Province"	NA	"IR.KE"	"IR-08"
+"IRN"	"Iran"	"IRN.14_1"	"Kermanshah"	"Bakhtaran|Kermanshahan"	NA	"Ostan"	"Province"	NA	"IR.BK"	"IR-05"
+"IRN"	"Iran"	"IRN.15_1"	"Khuzestan"	"Khuzistan|Kouzistan"	NA	"Ostan"	"Province"	NA	"IR.KZ"	"IR-06"
+"IRN"	"Iran"	"IRN.16_1"	"Kohgiluyeh and Buyer Ahmad"	"Bovir Ahmadi and Kohkiluyeh|Boye"	NA	"Ostan"	"Province"	NA	"IR.KB"	NA
+"IRN"	"Iran"	"IRN.17_1"	"Kordestan"	"Kurdistan"	NA	"Ostan"	"Province"	NA	"IR.KD"	"IR-12"
+"IRN"	"Iran"	"IRN.18_1"	"Lorestan"	NA	NA	"Ostan"	"Province"	NA	"IR.LO"	"IR-15"
+"IRN"	"Iran"	"IRN.19_1"	"Markazi"	NA	NA	"Ostan"	"Province"	NA	"IR.MK"	"IR-00"
+"IRN"	"Iran"	"IRN.20_1"	"Mazandaran"	NA	NA	"Ostan"	"Province"	NA	"IR.MN"	"IR-02"
+"IRN"	"Iran"	"IRN.21_1"	"North Khorasan"	"Khorasan-e Shemali"	NA	"Ostan"	"Province"	NA	"IR.KS"	NA
+"IRN"	"Iran"	"IRN.22_1"	"Qazvin"	NA	NA	"Ostan"	"Province"	NA	"IR.QZ"	"IR-26"
+"IRN"	"Iran"	"IRN.23_1"	"Qom"	NA	NA	"Ostan"	"Province"	NA	"IR.QM"	"IR-25"
+"IRN"	"Iran"	"IRN.24_1"	"Razavi Khorasan"	"Khorasan-e Razavi"	NA	"Ostan"	"Province"	NA	"IR.KV"	NA
+"IRN"	"Iran"	"IRN.25_1"	"Semnan"	NA	NA	"Ostan"	"Province"	NA	"IR.SM"	"IR-20"
+"IRN"	"Iran"	"IRN.26_1"	"Sistan and Baluchestan"	"Baluchestan va Sistan|Seistan an"	NA	"Ostan"	"Province"	NA	"IR.SB"	NA
+"IRN"	"Iran"	"IRN.27_1"	"South Khorasan"	"Khorasan-e Janubi"	NA	"Ostan"	"Province"	NA	"IR.KJ"	NA
+"IRN"	"Iran"	"IRN.28_1"	"Tehran"	"Teheran"	"استان تهران"	"Ostan"	"Province"	NA	"IR.TH"	"IR-23"
+"IRN"	"Iran"	"IRN.29_1"	"West Azarbaijan"	"Azarbayjan-e Bakhtari|Azarbaijan"	NA	"Ostan"	"Province"	NA	"IR.WA"	NA
+"IRN"	"Iran"	"IRN.30_1"	"Yazd"	NA	NA	"Ostan"	"Province"	NA	"IR.YA"	"IR-21"
+"IRN"	"Iran"	"IRN.31_1"	"Zanjan"	NA	NA	"Ostan"	"Province"	NA	"IR.ZA"	"IR-19"
+"IRQ"	"Iraq"	"IRQ.1_1"	"Al-Anbar"	"Dulaim|Ramadi"	NA	"Muhafazah"	"Province"	NA	"IQ.AN"	NA
+"IRQ"	"Iraq"	"IRQ.2_1"	"Al-Basrah"	"Basra|Bassora"	NA	"Muhafazah"	"Province"	NA	"IQ.BA"	NA
+"IRQ"	"Iraq"	"IRQ.3_1"	"Al-Muthannia"	"Al-Muthanna"	NA	"Muhafazah"	"Province"	NA	"IQ.MU"	NA
+"IRQ"	"Iraq"	"IRQ.4_1"	"Al-Qadisiyah"	"Diwaniyah"	NA	"Muhafazah"	"Province"	NA	"IQ.QA"	NA
+"IRQ"	"Iraq"	"IRQ.5_1"	"An-Najaf"	NA	NA	"Muhafazah"	"Province"	NA	"IQ.NA"	NA
+"IRQ"	"Iraq"	"IRQ.6_1"	"Arbil"	"Arbela|Erbil|Irbil"	NA	"Muhafazah"	"Province"	NA	"IQ.AR"	"IQ-AR"
+"IRQ"	"Iraq"	"IRQ.7_1"	"As-Sulaymaniyah"	NA	NA	"Muhafazah"	"Province"	NA	"IQ.SU"	NA
+"IRQ"	"Iraq"	"IRQ.8_1"	"At-Ta'mim"	"Kirkuk|Tamin"	NA	"Muhafazah"	"Province"	NA	"IQ.TS"	NA
+"IRQ"	"Iraq"	"IRQ.9_1"	"Babil"	"Babylon|Hilla"	NA	"Muhafazah"	"Province"	NA	"IQ.BB"	"IQ-BB"
+"IRQ"	"Iraq"	"IRQ.10_1"	"Baghdad"	"Bagd|Bagdad"	NA	"Muhafazah"	"Province"	NA	"IQ.BG"	"IQ-BG"
+"IRQ"	"Iraq"	"IRQ.11_1"	"Dhi-Qar"	"Dhi Qar|Muntafiq|Nasiriyah|Thi-Q"	NA	"Muhafazah"	"Province"	NA	"IQ.DQ"	NA
+"IRQ"	"Iraq"	"IRQ.12_1"	"Dihok"	"Dahuk|D'hok"	NA	"Muhafazah"	"Province"	NA	"IQ.DA"	NA
+"IRQ"	"Iraq"	"IRQ.13_1"	"Diyala"	NA	NA	"Muhafazah"	"Province"	NA	"IQ.DI"	"IQ-DI"
+"IRQ"	"Iraq"	"IRQ.14_1"	"Karbala'"	"Kerbela"	NA	"Muhafazah"	"Province"	NA	"IQ.KA"	"IQ-KA"
+"IRQ"	"Iraq"	"IRQ.15_1"	"Maysan"	"`Amara"	NA	"Muhafazah"	"Province"	NA	"IQ.MA"	"IQ-MA"
+"IRQ"	"Iraq"	"IRQ.16_1"	"Ninawa"	"Al-Mawsil|Mosul|Ninive|N¡nive|Ni"	NA	"Muhafazah"	"Province"	NA	"IQ.NI"	"IQ-NI"
+"IRQ"	"Iraq"	"IRQ.17_1"	"Sala ad-Din"	"Salah ad-Din|Salaheddin"	NA	"Muhafazah"	"Province"	NA	"IQ.SD"	NA
+"IRQ"	"Iraq"	"IRQ.18_1"	"Wasit"	"Kut|Kut-al-Imara"	NA	"Muhafazah"	"Province"	NA	"IQ.WA"	"IQ-WA"
+"ISR"	"Israel"	"ISR.1_1"	"Golan"	NA	NA	"Mehoz"	"District"	NA	NA	NA
+"ISR"	"Israel"	"ISR.2_1"	"HaDarom"	"Southern District"	NA	"Mehoz"	"District"	NA	"IL.HD"	"IL-D"
+"ISR"	"Israel"	"ISR.3_1"	"Haifa"	"Hefa"	NA	"Mehoz"	"District"	NA	"IL.HA"	NA
+"ISR"	"Israel"	"ISR.4_1"	"HaMerkaz"	"Central District"	NA	"Mehoz"	"District"	NA	"IL.HM"	"IL-M"
+"ISR"	"Israel"	"ISR.5_1"	"HaZafon"	"Northern"	NA	"Mehoz"	"District"	NA	"IL.HZ"	NA
+"ISR"	"Israel"	"ISR.6_1"	"Jerusalem"	"Al-Quds|Yerushalayim"	NA	"Mehoz"	"District"	NA	"IL.JM"	NA
+"ISR"	"Israel"	"ISR.7_1"	"Tel Aviv"	NA	NA	"Mehoz"	"District"	NA	"IL.TA"	"IL-TA"
+"JOR"	"Jordan"	"JOR.1_1"	"Ajlun"	"Ajloan|`Ajlun"	NA	"Muhafazah"	"Province"	NA	"JO.AJ"	NA
+"JOR"	"Jordan"	"JOR.2_1"	"Amman"	"Ama"	NA	"Muhafazah"	"Province"	NA	"JO.AM"	NA
+"JOR"	"Jordan"	"JOR.3_1"	"Aqaba"	"Al `Aqabah"	NA	"Muhafazah"	"Province"	NA	"JO.AQ"	NA
+"JOR"	"Jordan"	"JOR.4_1"	"Balqa"	"Al Balqa'|Balka|Belga"	NA	"Muhafazah"	"Province"	NA	"JO.BA"	NA
+"JOR"	"Jordan"	"JOR.5_1"	"Irbid"	NA	NA	"Muhafazah"	"Province"	NA	"JO.IR"	"JO-IR"
+"JOR"	"Jordan"	"JOR.6_1"	"Jarash"	NA	NA	"Muhafazah"	"Province"	NA	"JO.JA"	"JO-JA"
+"JOR"	"Jordan"	"JOR.7_1"	"Karak"	"Al Karak|Kerak"	NA	"Muhafazah"	"Province"	NA	"JO.KA"	NA
+"JOR"	"Jordan"	"JOR.8_1"	"Ma`an"	NA	NA	"Muhafazah"	"Province"	NA	"JO.MN"	NA
+"JOR"	"Jordan"	"JOR.9_1"	"Madaba"	NA	NA	"Muhafazah"	"Province"	NA	"JO.MD"	"JO-MD"
+"JOR"	"Jordan"	"JOR.10_1"	"Mafraq"	NA	NA	"Muhafazah"	"Province"	NA	"JO.MA"	NA
+"JOR"	"Jordan"	"JOR.11_1"	"Tafilah"	"At Tafilah|Tafela|Tafileh"	NA	"Muhafazah"	"Province"	NA	"JO.AT"	NA
+"JOR"	"Jordan"	"JOR.12_1"	"Zarqa"	"Az Zarqa'"	NA	"Muhafazah"	"Province"	NA	"JO.AZ"	NA
+"KAZ"	"Kazakhstan"	"KAZ.1_1"	"Almaty"	"Alma-Ata|Alma-Atinskaya Oblast'|"	NA	"Oblasy"	"Region"	NA	"KZ.AA"	"KZ-ALA"
+"KAZ"	"Kazakhstan"	"KAZ.2_1"	"Aqmola"	"Akmolin|Akmolinsk|Tselinograd"	NA	"Oblasy"	"Region"	NA	"KZ.AM"	NA
+"KAZ"	"Kazakhstan"	"KAZ.3_1"	"Aqtöbe"	"Aktyubinsk"	NA	"Oblasy"	"Region"	NA	"KZ.AT"	NA
+"KAZ"	"Kazakhstan"	"KAZ.4_1"	"Atyrau"	"Ateransk|Gur'yev"	NA	"Oblasy"	"Region"	NA	"KZ.AR"	NA
+"KAZ"	"Kazakhstan"	"KAZ.5_1"	"East Kazakhstan"	"Shyghys Qazaqstan|Vostochno-Kaza"	NA	"Oblasy"	"Region"	NA	"KZ.EK"	NA
+"KAZ"	"Kazakhstan"	"KAZ.6_1"	"Mangghystau"	"Mangistau|Mangyshlak"	NA	"Oblasy"	"Region"	NA	"KZ.MG"	NA
+"KAZ"	"Kazakhstan"	"KAZ.7_1"	"North Kazakhstan"	"Severo-Kazakhstan|Soltustik Qaza"	NA	"Oblasy"	"Region"	NA	"KZ.NK"	NA
+"KAZ"	"Kazakhstan"	"KAZ.8_1"	"Pavlodar"	NA	NA	"Oblasy"	"Region"	NA	"KZ.PA"	NA
+"KAZ"	"Kazakhstan"	"KAZ.9_1"	"Qaraghandy"	"Karaganda|Karagandinskaya Oblast"	NA	"Oblasy"	"Region"	NA	"KZ.QG"	NA
+"KAZ"	"Kazakhstan"	"KAZ.10_1"	"Qostanay"	"Kustanai|Kustanay"	NA	"Oblasy"	"Region"	NA	"KZ.QS"	NA
+"KAZ"	"Kazakhstan"	"KAZ.11_1"	"Qyzylorda"	"Kyzyl-Orda|Kzyl-Orda|Kzyl-Ordins"	NA	"Oblasy"	"Region"	NA	"KZ.QO"	NA
+"KAZ"	"Kazakhstan"	"KAZ.12_1"	"South Kazakhstan"	"Chimkent"	NA	"Oblasy"	"Region"	NA	"KZ.SK"	NA
+"KAZ"	"Kazakhstan"	"KAZ.13_1"	"West Kazakhstan"	"Ural'sk"	NA	"Oblasy"	"Region"	NA	"KZ.WK"	NA
+"KAZ"	"Kazakhstan"	"KAZ.14_1"	"Zhambyl"	"Dzhambul"	NA	"Oblasy"	"Region"	NA	"KZ.ZM"	NA
+"KWT"	"Kuwait"	"KWT.1_1"	"Al Ahmadi"	NA	"الاحمدي"	"Muhafazah"	"Province"	NA	"KW.AH"	"KW-AH"
+"KWT"	"Kuwait"	"KWT.2_1"	"Al Farwaniyah"	"Farwaniya"	"الفروانية‎"	"Muhafazah"	"Province"	NA	"KW.FA"	"KW-FA"
+"KWT"	"Kuwait"	"KWT.3_1"	"Al Jahrah"	"Jahra"	"الجهراء"	"Muhafazah"	"Province"	NA	"KW.JA"	NA
+"KWT"	"Kuwait"	"KWT.4_1"	"Al Kuwayt"	"Al Asimah, Capital, Kuwait"	"العاصمه"	"Muhafazah"	"Province"	NA	"KW.KU"	NA
+"KWT"	"Kuwait"	"KWT.5_1"	"Hawalli"	"Hawali, Howali"	"حولي"	"Muhafazah"	"Province"	NA	"KW.HW"	"KW-HA"
+"KWT"	"Kuwait"	"KWT.6_1"	"Mubarak Al-Kabeer"	NA	"مبارك الكبير"	"Muhafazah"	"Province"	NA	"KW.MU"	NA
+"KGZ"	"Kyrgyzstan"	"KGZ.1_1"	"Batken"	NA	NA	"Oblast"	"Province"	NA	"KG.BA"	"KG-B"
+"KGZ"	"Kyrgyzstan"	"KGZ.2_1"	"Biškek"	"Bishkek"	NA	"Shaar"	"City"	NA	"KG.GB"	NA
+"KGZ"	"Kyrgyzstan"	"KGZ.3_1"	"Chüy"	NA	NA	"Oblast"	"Province"	NA	"KG.CU"	NA
+"KGZ"	"Kyrgyzstan"	"KGZ.4_1"	"Jalal-Abad"	"Djalal-Abad|Dzhalal-Abadskaya Ob"	NA	"Oblast"	"Province"	NA	"KG.DA"	"KG-J"
+"KGZ"	"Kyrgyzstan"	"KGZ.5_1"	"Naryn"	"Tien-Shanskaya Oblast'|Tyan'-Sha"	NA	"Oblast"	"Province"	NA	"KG.NA"	"KG-N"
+"KGZ"	"Kyrgyzstan"	"KGZ.7_1"	"Osh"	NA	NA	"Oblast"	"Province"	NA	"KG.OS"	NA
+"KGZ"	"Kyrgyzstan"	"KGZ.6_1"	"Osh (city)"	NA	NA	"Shaar"	"City"	NA	"KG.OS"	NA
+"KGZ"	"Kyrgyzstan"	"KGZ.8_1"	"Talas"	NA	NA	"Oblast"	"Province"	NA	"KG.TL"	"KG-T"
+"KGZ"	"Kyrgyzstan"	"KGZ.9_1"	"Ysyk-Köl"	"Issyk-Kul|Issyk-Kul'skaya Oblast"	NA	"Oblast"	"Province"	NA	"KG.YK"	NA
+"LBN"	"Lebanon"	"LBN.1_1"	"Akkar"	NA	NA	"Muhafazah"	"Governorate"	NA	NA	NA
+"LBN"	"Lebanon"	"LBN.2_1"	"Baalbak - Hermel"	NA	NA	"Muhafazah"	"Governorate"	NA	NA	NA
+"LBN"	"Lebanon"	"LBN.3_1"	"Beirut"	NA	NA	"Muhafazah"	"Governorate"	NA	NA	NA
+"LBN"	"Lebanon"	"LBN.4_1"	"Bekaa"	"Beqaa|Zahleh"	NA	"Muhafazah"	"Governorate"	NA	NA	NA
+"LBN"	"Lebanon"	"LBN.5_1"	"Mount Lebanon"	"Baabda"	NA	"Muhafazah"	"Governorate"	NA	NA	NA
+"LBN"	"Lebanon"	"LBN.6_1"	"Nabatiyeh"	NA	NA	"Muhafazah"	"Governorate"	NA	NA	NA
+"LBN"	"Lebanon"	"LBN.7_1"	"North"	"Tripoli"	NA	"Muhafazah"	"Governorate"	NA	NA	NA
+"LBN"	"Lebanon"	"LBN.8_1"	"South"	"Sidon"	NA	"Muhafazah"	"Governorate"	NA	NA	NA
+"OMN"	"Oman"	"OMN.1_1"	"Ad Dakhliyah"	"Ad Dakhiliyah"	NA	"Mintaqah"	"Region"	NA	"OM.DA"	NA
+"OMN"	"Oman"	"OMN.2_1"	"Al Batinah North"	NA	NA	"Mintaqah"	"Region"	NA	"OM.BN"	NA
+"OMN"	"Oman"	"OMN.3_1"	"Al Batinah South"	NA	NA	"Mintaqah"	"Region"	NA	"OM.BS"	NA
+"OMN"	"Oman"	"OMN.4_1"	"Al Buraymi"	"Adh Dhahirah|Az Zahirah"	NA	"Mintaqah"	"Region"	NA	"OM.DH"	"OM-BU"
+"OMN"	"Oman"	"OMN.5_1"	"Al Dhahira"	"Adh Dhahirah|Az Zahirah"	NA	"Mintaqah"	"Region"	NA	"OM.ZA"	NA
+"OMN"	"Oman"	"OMN.6_1"	"Al Wusta"	NA	NA	"Mintaqah"	"Region"	NA	"OM.WU"	"OM-WU"
+"OMN"	"Oman"	"OMN.7_1"	"Ash Sharqiyah North"	NA	NA	"Mintaqah"	"Region"	NA	"OM.SN"	NA
+"OMN"	"Oman"	"OMN.8_1"	"Ash Sharqiyah South"	NA	NA	"Mintaqah"	"Region"	NA	"OM.SS"	NA
+"OMN"	"Oman"	"OMN.9_1"	"Dhofar"	"Al Janubiyah [Zufar]"	NA	"Muhafazah"	"Province"	NA	"OM.JA"	NA
+"OMN"	"Oman"	"OMN.10_1"	"Musandam"	NA	NA	"Muhafazah"	"Province"	NA	"OM.MU"	"OM-MU"
+"OMN"	"Oman"	"OMN.11_1"	"Muscat"	"Masqat"	NA	"Muhafazah"	"Province"	NA	"OM.MA"	NA
+"Z06"	"Pakistan"	"Z06.1_1"	"Azad Kashmir"	"Kashmir"	NA	"Centrally Administered Area"	"Centrally Administered Area"	NA	"PK.JK"	NA
+"PAK"	"Pakistan"	"PAK.2_1"	"Balochistan"	"Baluchistan|BéloutchistanBeluchi"	NA	"Province"	"Province"	NA	"PK.BA"	"PK-BA"
+"PAK"	"Pakistan"	"PAK.3_1"	"Federally Administered Tribal Ar"	"F.A.T.A."	"F.A.T.A."	"Territory"	"Territory"	NA	"PK.TA"	NA
+"Z06"	"Pakistan"	"Z06.6_1"	"Gilgit-Baltistan"	"Northern Areas"	NA	"Centrally Administered Area"	"Centrally Administered Area"	NA	"PK.NA"	NA
+"PAK"	"Pakistan"	"PAK.4_1"	"Islamabad"	"F.C.T.|Federal Capital Territory"	NA	"Capital Territory"	"Capital Territory"	NA	"PK.IS"	"PK-IS"
+"PAK"	"Pakistan"	"PAK.5_1"	"Khyber-Pakhtunkhwa"	"N.W.F.P.|North-West Frontier Pro"	NA	"Province"	"Province"	NA	"PK.NW"	NA
+"PAK"	"Pakistan"	"PAK.7_1"	"Punjab"	"Pendjab|Penjab"	NA	"Province"	"Province"	NA	"PK.PB"	"PK-PB"
+"PAK"	"Pakistan"	"PAK.8_1"	"Sindh"	"Sind"	NA	"Province"	"Province"	NA	"PK.SD"	"PK-SD"
+"QAT"	"Qatar"	"QAT.1_1"	"Ad Dawhah"	"Doha"	"الدوحة"	"Baladiyah"	"Municipality"	NA	"QA.DA"	"QA-DA"
+"QAT"	"Qatar"	"QAT.2_1"	"Al Daayen"	NA	"الضعاين‎"	"Baladiyah"	"Municipality"	NA	"QA.DY"	NA
+"QAT"	"Qatar"	"QAT.3_1"	"Al Khor"	"Al Khawr"	"الخور‎"	"Baladiyah"	"Municipality"	NA	"QA.KR"	NA
+"QAT"	"Qatar"	"QAT.4_1"	"Al Wakrah"	"Al Wakra"	"الوكرة"	"Baladiyah"	"Municipality"	NA	"QA.WA"	"QA-WA"
+"QAT"	"Qatar"	"QAT.5_1"	"Ar Rayyan"	NA	"الريان‎"	"Baladiyah"	"Municipality"	NA	"QA.RY"	"QA-RA"
+"QAT"	"Qatar"	"QAT.6_1"	"Madinat ash Shamal"	NA	"الشمال‎"	"Baladiyah"	"Municipality"	NA	"QA.MS"	NA
+"QAT"	"Qatar"	"QAT.7_1"	"Umm Salal"	NA	"أم صلال‎"	"Baladiyah"	"Municipality"	NA	"QA.SL"	"QA-US"
+"SAU"	"Saudi Arabia"	"SAU.1_1"	"'Asir"	"Asir|Aseer|Assyear"	"عَسِيرٌ"	"Minṭaqah"	"Province"	NA	"SA.AS"	"SA-14"
+"SAU"	"Saudi Arabia"	"SAU.2_1"	"Al Bahah"	"Baha|Bahah"	"ٱلْبَاحَة‎"	"Minṭaqah"	"Province"	NA	"SA.BA"	"SA-11"
+"SAU"	"Saudi Arabia"	"SAU.3_1"	"Al Hudud ash Shamaliyah"	"Northern Borders"	"الحدود الشمالية"	"Minṭaqah"	"Province"	NA	"SA.HS"	"SA-08"
+"SAU"	"Saudi Arabia"	"SAU.4_1"	"Al Jawf"	"Jawf|Al Joaf|Al-Jouf|Jowf"	"منطقة الجوف"	"Minṭaqah"	"Province"	NA	"SA.JF"	"SA-12"
+"SAU"	"Saudi Arabia"	"SAU.5_1"	"Al Madinah"	"Madinah|Al Madinah al Munawwarah"	"المدينة"	"Minṭaqah"	"Province"	NA	"SA.MD"	NA
+"SAU"	"Saudi Arabia"	"SAU.6_1"	"Al Qassim"	"Al Quassim|Qassim|Qasim|Al Gassi"	"القصيم‎"	"Minṭaqah"	"Province"	NA	"SA.QS"	NA
+"SAU"	"Saudi Arabia"	"SAU.7_1"	"Ar Riyad"	"Riyad|Riad|Riyadh"	"الرياض‎"	"Minṭaqah"	"Province"	NA	"SA.RI"	"SA-01"
+"SAU"	"Saudi Arabia"	"SAU.8_1"	"Ash-Sharqīyah"	"Eastern|Ash Sharqiyah"	"الشرقية‎"	"Minṭaqah"	"Province"	NA	"SA.SH"	NA
+"SAU"	"Saudi Arabia"	"SAU.9_1"	"Ḥaʼil"	"Hai'il"	"حَائِل‎"	"Minṭaqah"	"Province"	NA	"SA.HA"	NA
+"SAU"	"Saudi Arabia"	"SAU.10_1"	"Jizan"	"Jazan|Qizan"	"جيزان‎"	"Minṭaqah"	"Province"	NA	"SA.JZ"	NA
+"SAU"	"Saudi Arabia"	"SAU.11_1"	"Makkah"	"Makka|Makkah al-Mukarramah|Mecca"	"مَكَّة‎"	"Minṭaqah"	"Province"	NA	"SA.MK"	NA
+"SAU"	"Saudi Arabia"	"SAU.12_1"	"Najran"	NA	"نجران‎"	"Minṭaqah"	"Province"	NA	"SA.NJ"	"SA-10"
+"SAU"	"Saudi Arabia"	"SAU.13_1"	"Tabuk"	"Tabouk"	"تَبُوْك‎"	"Minṭaqah"	"Province"	NA	"SA.TB"	"SA-07"
+"SYR"	"Syria"	"SYR.1_1"	"Al Ḥasakah"	"Al-Haska|Al Hassake|El Haseke|Ha"	NA	"Muḥāfaẓah"	"Governorate"	NA	"SY.HA"	NA
+"SYR"	"Syria"	"SYR.2_1"	"Aleppo"	"Aleppo|Alep|Alepo|Haleb|Ḥalab"	NA	"Muḥāfaẓah"	"Governorate"	NA	"SY.HL"	NA
+"SYR"	"Syria"	"SYR.3_1"	"Ar Raqqah"	"Al Rakka|Raqqa|Al Rashid|Rashid"	NA	"Muḥāfaẓah"	"Governorate"	NA	"SY.RA"	"SY-RA"
+"SYR"	"Syria"	"SYR.4_1"	"As Suwayda'"	"Djebel Druze|Jabal Druze|Jebel D"	NA	"Muḥāfaẓah"	"Governorate"	NA	"SY.SU"	"SY-SU"
+"SYR"	"Syria"	"SYR.5_1"	"Damascus"	NA	NA	"Muḥāfaẓah"	"Governorate"	NA	"SY.DI"	NA
+"SYR"	"Syria"	"SYR.6_1"	"Dar`a"	"Dara'a|Dária|Dera`a|Derraa|Haura"	NA	"Muḥāfaẓah"	"Governorate"	NA	"SY.DR"	NA
+"SYR"	"Syria"	"SYR.7_1"	"Dayr Az Zawr"	"Dair-Ezzor|Dayr az Zaur|Deir Al"	NA	"Muḥāfaẓah"	"Governorate"	NA	"SY.DY"	NA
+"SYR"	"Syria"	"SYR.8_1"	"Hamah"	"Hama|Ḥamāh"	NA	"Muḥāfaẓah"	"Governorate"	NA	"SY.HM"	"SY-HM"
+"SYR"	"Syria"	"SYR.9_1"	"Hims"	"Hims|Homs"	NA	"Muḥāfaẓah"	"Governorate"	NA	"SY.HI"	"SY-HI"
+"SYR"	"Syria"	"SYR.10_1"	"Idlib"	"Adlib|Edleb|Idleb"	NA	"Muḥāfaẓah"	"Governorate"	NA	"SY.ID"	"SY-ID"
+"SYR"	"Syria"	"SYR.11_1"	"Lattakia"	"Latakia|Al Ladhiqiyah|El Ladhiqi"	NA	"Muḥāfaẓah"	"Governorate"	NA	"SY.LA"	NA
+"SYR"	"Syria"	"SYR.12_1"	"Quneitra"	"Al Qunatirah|Al Qunaytirah|Al Qu"	NA	"Muḥāfaẓah"	"Governorate"	NA	"SY.QU"	NA
+"SYR"	"Syria"	"SYR.13_1"	"Rif Dimashq"	"Damas Campagne|Damascus Countrys"	NA	"Muḥāfaẓah"	"Governorate"	NA	"SY.RD"	"SY-RD"
+"SYR"	"Syria"	"SYR.14_1"	"Tartus"	"Tartaus|Tartous"	NA	"Muḥāfaẓah"	"Governorate"	NA	"SY.TA"	"SY-TA"
+"TJK"	"Tajikistan"	"TJK.5_1"	"Districts of Republican Subordin"	NA	"Ноҳияҳои тобеи ҷумҳурӣ"	"Districts of Republican Subordin"	"Districts of Republican Subordin"	NA	"TJ.RR"	NA
+"TJK"	"Tajikistan"	"TJK.1_1"	"Dushanbe"	NA	"Душанбе"	"City"	"City"	NA	"TJ.DU"	"TJ-DU"
+"TJK"	"Tajikistan"	"TJK.2_1"	"Gorno-Badakhshan"	"Badakhshoni Kuni|Autonomes Gebie"	"Кӯҳистони Бадахшон"	"Vilojati Muxtori"	"Autonomous Region"	NA	"TJ.BK"	NA
+"TJK"	"Tajikistan"	"TJK.3_1"	"Khatlon"	"Hationskaya oblast'|Hatlonskaja"	"Хатлон"	"Viloyat"	"Region"	NA	"TJ.KL"	"TJ-KT"
+"TJK"	"Tajikistan"	"TJK.4_1"	"Sughd"	"Leninabad|Sogd|Hodžent|Khodzhent"	"Суғд"	"Viloyat"	"Region"	NA	"TJ.LE"	"TJ-SU"
+"TKM"	"Turkmenistan"	"TKM.1_1"	"Ahal"	"Akhal|Ashkhabad|Ashkhabadskaya O"	NA	"Welayat"	"Province"	NA	"TM.AL"	"TM-A"
+"TKM"	"Turkmenistan"	"TKM.2_1"	"Aşgabat"	"Ashgabat"	NA	"Captial City District"	"Captial City District"	NA	"TM.AB"	NA
+"TKM"	"Turkmenistan"	"TKM.3_1"	"Balkan"	"Krasnovodsk, Krasnovodskaya Obla"	NA	"Welayat"	"Province"	NA	"TM.BA"	"TM-B"
+"TKM"	"Turkmenistan"	"TKM.6_1"	"Daşoguz"	"Dashoguz|Tashauz|Dashhowuz|Dashk"	NA	"Welayat"	"Province"	NA	"TM.DA"	NA
+"TKM"	"Turkmenistan"	"TKM.4_1"	"Lebap"	"Chardzhouskaya Oblast"	NA	"Welayat"	"Province"	NA	"TM.LE"	"TM-L"
+"TKM"	"Turkmenistan"	"TKM.5_1"	"Mary"	"Maruy|Marysk|Maryyskaya Oblast"	NA	"Welayat"	"Province"	NA	"TM.MA"	"TM-M"
+"TUR"	"Turkey"	"TUR.1_1"	"Adana"	"Seyhan"	NA	"Il"	"Province"	NA	"TR.AA"	"TR-01"
+"TUR"	"Turkey"	"TUR.2_1"	"Adiyaman"	"Adıyaman"	NA	"Il"	"Province"	NA	"TR.AD"	"TR-02"
+"TUR"	"Turkey"	"TUR.3_1"	"Afyon"	"Afyonkarahisar"	NA	"Il"	"Province"	NA	"TR.AF"	NA
+"TUR"	"Turkey"	"TUR.4_1"	"Agri"	"Ağri|Karaköse"	NA	"Il"	"Province"	NA	"TR.AG"	"TR-04"
+"TUR"	"Turkey"	"TUR.5_1"	"Aksaray"	NA	NA	"Il"	"Province"	NA	"TR.AK"	"TR-68"
+"TUR"	"Turkey"	"TUR.6_1"	"Amasya"	NA	NA	"Il"	"Province"	NA	"TR.AM"	"TR-05"
+"TUR"	"Turkey"	"TUR.7_1"	"Ankara"	"Ancara|Angora"	NA	"Il"	"Province"	NA	"TR.AN"	"TR-06"
+"TUR"	"Turkey"	"TUR.8_1"	"Antalya"	"Adalia|Anatolia"	NA	"Il"	"Province"	NA	"TR.AL"	"TR-07"
+"TUR"	"Turkey"	"TUR.9_1"	"Ardahan"	NA	NA	"Il"	"Province"	NA	"TR.AR"	"TR-75"
+"TUR"	"Turkey"	"TUR.10_1"	"Artvin"	"Çoruh"	NA	"Il"	"Province"	NA	"TR.AV"	"TR-08"
+"TUR"	"Turkey"	"TUR.11_1"	"Aydin"	"Aydın"	NA	"Il"	"Province"	NA	"TR.AY"	"TR-09"
+"TUR"	"Turkey"	"TUR.12_1"	"Balikesir"	"Balıkesir|Balikisri"	NA	"Il"	"Province"	NA	"TR.BK"	"TR-10"
+"TUR"	"Turkey"	"TUR.13_1"	"Bartın"	NA	NA	"Il"	"Province"	NA	"TR.BR"	NA
+"TUR"	"Turkey"	"TUR.14_1"	"Batman"	NA	NA	"Il"	"Province"	NA	"TR.BM"	"TR-72"
+"TUR"	"Turkey"	"TUR.15_1"	"Bayburt"	NA	NA	"Il"	"Province"	NA	"TR.BB"	"TR-69"
+"TUR"	"Turkey"	"TUR.16_1"	"Bilecik"	NA	NA	"Il"	"Province"	NA	"TR.BC"	"TR-11"
+"TUR"	"Turkey"	"TUR.17_1"	"Bingöl"	"Çapakçur"	NA	"Il"	"Province"	NA	"TR.BG"	NA
+"TUR"	"Turkey"	"TUR.18_1"	"Bitlis"	NA	NA	"Il"	"Province"	NA	"TR.BT"	"TR-13"
+"TUR"	"Turkey"	"TUR.19_1"	"Bolu"	NA	NA	"Il"	"Province"	NA	"TR.BL"	"TR-14"
+"TUR"	"Turkey"	"TUR.20_1"	"Burdur"	NA	NA	"Il"	"Province"	NA	"TR.BD"	"TR-15"
+"TUR"	"Turkey"	"TUR.21_1"	"Bursa"	"Burssa|Brusa|Brussa|Brousse"	NA	"Il"	"Province"	NA	"TR.BU"	"TR-16"
+"TUR"	"Turkey"	"TUR.22_1"	"Çanakkale"	NA	NA	"Il"	"Province"	NA	"TR.CK"	NA
+"TUR"	"Turkey"	"TUR.23_1"	"Çankiri"	"Çankırı|Changra"	NA	"Il"	"Province"	NA	"TR.CI"	NA
+"TUR"	"Turkey"	"TUR.24_1"	"Çorum"	NA	NA	"Il"	"Province"	NA	"TR.CM"	NA
+"TUR"	"Turkey"	"TUR.25_1"	"Denizli"	NA	NA	"Il"	"Province"	NA	"TR.DN"	"TR-20"
+"TUR"	"Turkey"	"TUR.26_1"	"Diyarbakir"	"Diyarbakır"	NA	"Il"	"Province"	NA	"TR.DY"	"TR-21"
+"TUR"	"Turkey"	"TUR.27_1"	"Düzce"	NA	NA	"Il"	"Province"	NA	"TR.DU"	NA
+"TUR"	"Turkey"	"TUR.28_1"	"Edirne"	"Adrianople|Adrianopel"	NA	"Il"	"Province"	NA	"TR.ED"	"TR-22"
+"TUR"	"Turkey"	"TUR.29_1"	"Elazığ"	"Elazig"	NA	"Il"	"Province"	NA	"TR.EG"	NA
+"TUR"	"Turkey"	"TUR.30_1"	"Erzincan"	NA	NA	"Il"	"Province"	NA	"TR.EN"	"TR-24"
+"TUR"	"Turkey"	"TUR.31_1"	"Erzurum"	NA	NA	"Il"	"Province"	NA	"TR.EM"	"TR-25"
+"TUR"	"Turkey"	"TUR.32_1"	"Eskisehir"	"Eskişehir"	NA	"Il"	"Province"	NA	"TR.ES"	"TR-26"
+"TUR"	"Turkey"	"TUR.33_1"	"Gaziantep"	NA	NA	"Il"	"Province"	NA	"TR.GA"	"TR-27"
+"TUR"	"Turkey"	"TUR.34_1"	"Giresun"	"Kerasund"	NA	"Il"	"Province"	NA	"TR.GI"	"TR-28"
+"TUR"	"Turkey"	"TUR.35_1"	"Gümüshane"	"Gümüşhane"	NA	"Il"	"Province"	NA	"TR.GU"	NA
+"TUR"	"Turkey"	"TUR.36_1"	"Hakkari"	NA	NA	"Il"	"Province"	NA	"TR.HK"	"TR-30"
+"TUR"	"Turkey"	"TUR.37_1"	"Hatay"	NA	NA	"Il"	"Province"	NA	"TR.HT"	"TR-31"
+"TUR"	"Turkey"	"TUR.38_1"	"Iğdır"	NA	NA	"Il"	"Province"	NA	"TR.IG"	NA
+"TUR"	"Turkey"	"TUR.39_1"	"Isparta"	NA	NA	"Il"	"Province"	NA	"TR.IP"	"TR-32"
+"TUR"	"Turkey"	"TUR.40_1"	"Istanbul"	"İstanbul|Constantinople|Estambul"	NA	"Il"	"Province"	NA	"TR.IB"	"TR-34"
+"TUR"	"Turkey"	"TUR.41_1"	"Izmir"	"İzmir|Esmirna|Smirne|Smyrna"	NA	"Il"	"Province"	NA	"TR.IZ"	"TR-35"
+"TUR"	"Turkey"	"TUR.42_1"	"K. Maras"	"Kahramanmaraş"	NA	"Il"	"Province"	NA	"TR.KM"	NA
+"TUR"	"Turkey"	"TUR.43_1"	"Karabük"	NA	NA	"Il"	"Province"	NA	"TR.KB"	NA
+"TUR"	"Turkey"	"TUR.44_1"	"Karaman"	NA	NA	"Il"	"Province"	NA	"TR.KR"	"TR-70"
+"TUR"	"Turkey"	"TUR.45_1"	"Kars"	NA	NA	"Il"	"Province"	NA	"TR.KA"	"TR-36"
+"TUR"	"Turkey"	"TUR.46_1"	"Kastamonu"	NA	NA	"Il"	"Province"	NA	"TR.KS"	"TR-37"
+"TUR"	"Turkey"	"TUR.47_1"	"Kayseri"	NA	NA	"Il"	"Province"	NA	"TR.KY"	"TR-38"
+"TUR"	"Turkey"	"TUR.48_1"	"Kilis"	NA	NA	"Il"	"Province"	NA	"TR.KI"	"TR-79"
+"TUR"	"Turkey"	"TUR.49_1"	"Kinkkale"	"Kırıkkale"	NA	"Il"	"Province"	NA	"TR.KK"	NA
+"TUR"	"Turkey"	"TUR.50_1"	"Kirklareli"	"Kırklareli"	NA	"Il"	"Province"	NA	"TR.KL"	"TR-39"
+"TUR"	"Turkey"	"TUR.51_1"	"Kirsehir"	"Kırşehir"	NA	"Il"	"Province"	NA	"TR.KH"	"TR-40"
+"TUR"	"Turkey"	"TUR.52_1"	"Kocaeli"	"İzmit"	NA	"Il"	"Province"	NA	"TR.KC"	"TR-41"
+"TUR"	"Turkey"	"TUR.53_1"	"Konya"	"Konieh|Kunja"	NA	"Il"	"Province"	NA	"TR.KO"	"TR-42"
+"TUR"	"Turkey"	"TUR.54_1"	"Kütahya"	"Kütanya"	NA	"Il"	"Province"	NA	"TR.KU"	NA
+"TUR"	"Turkey"	"TUR.55_1"	"Malatya"	NA	NA	"Il"	"Province"	NA	"TR.ML"	"TR-44"
+"TUR"	"Turkey"	"TUR.56_1"	"Manisa"	NA	NA	"Il"	"Province"	NA	"TR.MN"	"TR-45"
+"TUR"	"Turkey"	"TUR.57_1"	"Mardin"	NA	NA	"Il"	"Province"	NA	"TR.MR"	"TR-47"
+"TUR"	"Turkey"	"TUR.58_1"	"Mersin"	"İçel"	NA	"Il"	"Province"	NA	"TR.IC"	"TR-33"
+"TUR"	"Turkey"	"TUR.59_1"	"Mugla"	"Muğla"	NA	"Il"	"Province"	NA	"TR.MG"	"TR-48"
+"TUR"	"Turkey"	"TUR.60_1"	"Mus"	"Muş"	NA	"Il"	"Province"	NA	"TR.MS"	"TR-49"
+"TUR"	"Turkey"	"TUR.61_1"	"Nevsehir"	"Nevşehir"	NA	"Il"	"Province"	NA	"TR.NV"	"TR-50"
+"TUR"	"Turkey"	"TUR.62_1"	"Nigde"	"Niğde"	NA	"Il"	"Province"	NA	"TR.NG"	"TR-51"
+"TUR"	"Turkey"	"TUR.63_1"	"Ordu"	NA	NA	"Il"	"Province"	NA	"TR.OR"	"TR-52"
+"TUR"	"Turkey"	"TUR.64_1"	"Osmaniye"	NA	NA	"Il"	"Province"	NA	"TR.OS"	"TR-80"
+"TUR"	"Turkey"	"TUR.65_1"	"Rize"	NA	NA	"Il"	"Province"	NA	"TR.RI"	"TR-53"
+"TUR"	"Turkey"	"TUR.66_1"	"Sakarya"	NA	NA	"Il"	"Province"	NA	"TR.SK"	"TR-54"
+"TUR"	"Turkey"	"TUR.67_1"	"Samsun"	NA	NA	"Il"	"Province"	NA	"TR.SS"	"TR-55"
+"TUR"	"Turkey"	"TUR.68_1"	"Sanliurfa"	"Şanlıurfa|Urfa"	NA	"Il"	"Province"	NA	"TR.SU"	"TR-63"
+"TUR"	"Turkey"	"TUR.69_1"	"Siirt"	NA	NA	"Il"	"Province"	NA	"TR.SI"	"TR-56"
+"TUR"	"Turkey"	"TUR.70_1"	"Sinop"	NA	NA	"Il"	"Province"	NA	"TR.SP"	"TR-57"
+"TUR"	"Turkey"	"TUR.71_1"	"Sirnak"	"Şırnak"	NA	"Il"	"Province"	NA	"TR.SR"	"TR-73"
+"TUR"	"Turkey"	"TUR.72_1"	"Sivas"	NA	NA	"Il"	"Province"	NA	"TR.SV"	"TR-58"
+"TUR"	"Turkey"	"TUR.73_1"	"Tekirdag"	"Tekirdağ"	NA	"Il"	"Province"	NA	"TR.TG"	"TR-59"
+"TUR"	"Turkey"	"TUR.74_1"	"Tokat"	NA	NA	"Il"	"Province"	NA	"TR.TT"	"TR-60"
+"TUR"	"Turkey"	"TUR.75_1"	"Trabzon"	"Trapezunt|Trebizond|Trebizonda|T"	NA	"Il"	"Province"	NA	"TR.TB"	"TR-61"
+"TUR"	"Turkey"	"TUR.76_1"	"Tunceli"	NA	NA	"Il"	"Province"	NA	"TR.TC"	"TR-62"
+"TUR"	"Turkey"	"TUR.77_1"	"Usak"	"Uşak"	NA	"Il"	"Province"	NA	"TR.US"	"TR-64"
+"TUR"	"Turkey"	"TUR.78_1"	"Van"	NA	NA	"Il"	"Province"	NA	"TR.VA"	"TR-65"
+"TUR"	"Turkey"	"TUR.79_1"	"Yalova"	NA	NA	"Il"	"Province"	NA	"TR.YL"	"TR-77"
+"TUR"	"Turkey"	"TUR.80_1"	"Yozgat"	NA	NA	"Il"	"Province"	NA	"TR.YZ"	"TR-66"
+"TUR"	"Turkey"	"TUR.81_1"	"Zinguldak"	"Zonguldak"	NA	"Il"	"Province"	NA	"TR.ZO"	NA
+"ARE"	"United Arab Emirates"	"ARE.1_1"	"Abu Dhabi"	NA	"إمارة أبوظبي"	"Emirate"	"Emirate"	NA	"AE.AZ"	NA
+"ARE"	"United Arab Emirates"	"ARE.2_1"	"Ajman"	NA	"عجمان"	"Emirate"	"Emirate"	NA	"AE.AJ"	NA
+"ARE"	"United Arab Emirates"	"ARE.3_1"	"Dubai"	NA	"دبي"	"Emirate"	"Emirate"	NA	"AE.DU"	NA
+"ARE"	"United Arab Emirates"	"ARE.4_1"	"Fujairah"	NA	"الفجيرة"	"Emirate"	"Emirate"	NA	"AE.FU"	NA
+"ARE"	"United Arab Emirates"	"ARE.5_1"	"Ras Al-Khaimah"	NA	"رأس الخيمة"	"Emirate"	"Emirate"	NA	"AE.RK"	NA
+"ARE"	"United Arab Emirates"	"ARE.6_1"	"Sharjah"	NA	"الشارقة"	"Emirate"	"Emirate"	NA	"AE.SH"	NA
+"ARE"	"United Arab Emirates"	"ARE.7_1"	"Umm al-Qaywayn"	NA	"أم القيوين"	"Emirate"	"Emirate"	NA	"AE.UQ"	NA
+"UZB"	"Uzbekistan"	"UZB.1_1"	"Andijon"	"Andijan|Andizhan"	NA	"Wiloyat"	"Region"	NA	"UZ.AN"	"UZ-AN"
+"UZB"	"Uzbekistan"	"UZB.2_1"	"Buxoro"	"Bukhoro|Bukhara|Mawarranahr|Tran"	NA	"Wiloyat"	"Region"	NA	"UZ.BU"	"UZ-BU"
+"UZB"	"Uzbekistan"	"UZB.3_1"	"Farg'ona"	"Farghona|Fergana|Ferghana"	NA	"Wiloyat"	"Region"	NA	"UZ.FA"	"UZ-FA"
+"UZB"	"Uzbekistan"	"UZB.4_1"	"Jizzax"	"Dzhizak|Jizzakh"	NA	"Wiloyat"	"Region"	NA	"UZ.JI"	"UZ-JI"
+"UZB"	"Uzbekistan"	"UZB.8_1"	"Namangan"	NA	NA	"Wiloyat"	"Region"	NA	"UZ.NG"	"UZ-NG"
+"UZB"	"Uzbekistan"	"UZB.9_1"	"Navoiy"	"Navoi"	NA	"Wiloyat"	"Region"	NA	"UZ.NW"	"UZ-NW"
+"UZB"	"Uzbekistan"	"UZB.5_1"	"Qaraqalpaqstan"	"Karakalpakstan|Qoraqalpog`iston"	NA	"Repuplikasi"	"Autononous Region"	NA	"UZ.QR"	NA
+"UZB"	"Uzbekistan"	"UZB.6_1"	"Qashqadaryo"	"Kashkadarya|Kashka-Dar'ya|Kashka"	NA	"Wiloyat"	"Region"	NA	"UZ.QA"	"UZ-QA"
+"UZB"	"Uzbekistan"	"UZB.10_1"	"Samarqand'"	"Samarkand"	NA	"Wiloyat"	"Region"	NA	"UZ.SA"	NA
+"UZB"	"Uzbekistan"	"UZB.11_1"	"Sirdaryo"	"Syr-Dar'ya"	NA	"Wiloyat"	"Region"	NA	"UZ.SI"	"UZ-SI"
+"UZB"	"Uzbekistan"	"UZB.12_1"	"Surxondaryo"	"Surkhandarya|Sukhan-Dar'ya|Surxo"	NA	"Wiloyat"	"Region"	NA	"UZ.SU"	"UZ-SU"
+"UZB"	"Uzbekistan"	"UZB.14_1"	"Toshkent"	"Taschkent|Tashkent"	NA	"Wiloyat"	"Region"	NA	"UZ.TA"	"UZ-TK"
+"UZB"	"Uzbekistan"	"UZB.13_1"	"Toshkent Shahri"	"Tashkent City|Toshkent City"	NA	"Shahar"	"City"	NA	"UZ.TK"	NA
+"UZB"	"Uzbekistan"	"UZB.7_1"	"Xorazm"	"Khorezm|Khiva|Khwarazm|Khorazm"	NA	"Wiloyat"	"Region"	NA	"UZ.KH"	"UZ-XO"
+"YEM"	"Yemen"	"YEM.1_1"	"`Adan"	"Aden"	"عدن"	"Muhafazah"	"Governorate"	"24"	"YE.AD"	NA
+"YEM"	"Yemen"	"YEM.2_1"	"Abyan"	NA	"أبين"	"Muhafazah"	"Governorate"	"12"	"YE.AB"	"YE-AB"
+"YEM"	"Yemen"	"YEM.3_1"	"Al Bayda'"	"Albaidah|Al Baidha|Al-Baydha|Al"	"البيضاء"	"Muhafazah"	"Governorate"	"14"	"YE.BA"	"YE-BA"
+"YEM"	"Yemen"	"YEM.4_1"	"Al Dali'"	"Al Dhale'e"	"الضالع"	"Muhafazah"	"Governorate"	"30"	"YE.DL"	NA
+"YEM"	"Yemen"	"YEM.5_1"	"Al Hudaydah"	"Al Hodeida|Al-Hodeidah|Al Hudaid"	"الحديده"	"Muhafazah"	"Governorate"	"18"	"YE.HU"	"YE-HU"
+"YEM"	"Yemen"	"YEM.6_1"	"Al Jawf"	"Al Jouf|Aljowf|Jawf"	"الجوف"	"Muhafazah"	"Governorate"	"16"	"YE.JA"	NA
+"YEM"	"Yemen"	"YEM.7_1"	"Al Mahrah"	"Al Ghaydah|Al-Mahara|Almaharah|a"	"المهره"	"Muhafazah"	"Governorate"	"28"	"YE.MR"	"YE-MR"
+"YEM"	"Yemen"	"YEM.8_1"	"Al Mahwit"	"Almahweet|Mahweet"	"المحويت"	"Muhafazah"	"Governorate"	"27"	"YE.MW"	"YE-MW"
+"YEM"	"Yemen"	"YEM.9_1"	"Amanat Al Asimah"	NA	"أمانة العاصمة"	"Muhafazah"	"Governorate"	"13"	NA	NA
+"YEM"	"Yemen"	"YEM.10_1"	"Amran"	"'Amran"	"عمران"	"Muhafazah"	"Governorate"	"29"	"YE.AM"	NA
+"YEM"	"Yemen"	"YEM.11_1"	"Dhamar"	NA	"ذمار"	"Muhafazah"	"Governorate"	"20"	"YE.DH"	"YE-DH"
+"YEM"	"Yemen"	"YEM.12_1"	"Hadramawt"	"Hadhramaut|Hadhramawt|Hadhramout"	"حضرموت"	"Muhafazah"	"Governorate"	"19"	"YE.HD"	"YE-HD"
+"YEM"	"Yemen"	"YEM.13_1"	"Hajjah"	"Hajja"	"حجه"	"Muhafazah"	"Governorate"	"17"	"YE.HJ"	"YE-HJ"
+"YEM"	"Yemen"	"YEM.14_1"	"Ibb"	NA	"إب"	"Muhafazah"	"Governorate"	"11"	"YE.IB"	"YE-IB"
+"YEM"	"Yemen"	"YEM.15_1"	"Lahij"	"Laheg|Lahej|Lahj|Tuban"	"لحج"	"Muhafazah"	"Governorate"	"25"	"YE.LA"	"YE-LA"
+"YEM"	"Yemen"	"YEM.16_1"	"Ma'rib"	"Mareb|Marib"	"مأرب"	"Muhafazah"	"Governorate"	"26"	"YE.MA"	"YE-MA"
+"YEM"	"Yemen"	"YEM.17_1"	"Raymah"	NA	"ريمة"	"Muhafazah"	"Governorate"	"31"	NA	NA
+"YEM"	"Yemen"	"YEM.18_1"	"Sa`dah"	"Sa'ada|Saadah|Sa'da|Saidah|Sa'ad"	"صعدة"	"Muhafazah"	"Governorate"	"22"	"YE.SD"	NA
+"YEM"	"Yemen"	"YEM.19_1"	"San`a'"	"Sana'a"	"صنعاء"	"City"	"City"	"23"	"YE.SN"	NA
+"YEM"	"Yemen"	"YEM.20_1"	"Shabwah"	"Shabwa|Shibwah|Ataq"	"شبوة"	"Muhafazah"	"Governorate"	"21"	"YE.SH"	"YE-SH"
+"YEM"	"Yemen"	"YEM.21_1"	"Ta`izz"	"Taez|Taiz|Taizz"	"تعز"	"Muhafazah"	"Governorate"	"15"	"YE.TA"	NA
