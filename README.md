@@ -27,7 +27,7 @@
   <h3 align="center">DialectMapping</h3>
 
   <p align="center">
-    Towards a complete Mapping of Kurdish Dialectology
+    Towards a Complete Interactive Mapping of Kurdish Dialectology
     <br />
     <a href="https://github.com/christianschuler8989/DialectMapping/tree/main/docs"><strong>Explore the docs »</strong></a>
     <br />
