@@ -91,7 +91,7 @@ Utilizing an interactive map, visualizing the different aspects and geographical
 
 ### Poster presented at the ICKL-6 in 2023
 
-The International Conference on Kurdish Linguistics ([ICKL](https://www.uni-frankfurt.de/131978051/Call-for-Papers-ICKL-6)) is a biannual conference serving as a forum of scientific exchange for linguists working on any aspect of Kurdish, including the interactions with its neighboring languages. 
+The International Conference on Kurdish Linguistics ([ICKL](https://www.uni-frankfurt.de/43529817/Aktuelles)) is a biannual conference serving as a forum of scientific exchange for linguists working on any aspect of Kurdish, including the interactions with its neighboring languages. 
 
 [![Project Poster Screen Shot][project-poster-ickl-png]](https://github.com/Low-ResourceDialectology/DialectMapping)
 [The poster as pdf](https://github.com/Low-ResourceDialectology/DialectMapping/blob/main/images/2023_ICKL_DialectMapping_Poster.pdf)
@@ -137,25 +137,25 @@ _For more examples, please refer to the [Documentation](https://github.com/chris
 
 - [x] Set up this Repository
 - [ ] Section 1: Dialect Information
-    - [ ] Classification (Typology)
-        - [ ] Languege Family (partially)
-        - [ ] (Sub-)Dialect(-Group) (partially)
+    - [ ] Classification/Typology
+        - [ ] (partially) Languege Family
+        - [ ] (partially) (Sub-)Dialect(-Group)
         - [ ] Linguistic Information
     - [ ] (Meta) Data
-        - [ ] Areas where spoken (partially)
+        - [ ] (partially) Areas where spoken
         - [ ] Native Speaker
-        - [ ] Link to Publications (partially)
+        - [ ] (partially) Link to Publications
 - [ ] Section 2: Geolocation Data
     - [ ] Data Source(s)
         - [ ] Comfortable Access
         - [ ] Up to date
-        - [ ] Proper Format (partially)
+        - [ ] (partially) Proper Format
     - [ ] Preprocess and Aggregate
         - [ ] Normalize Naming
         - [ ] Link GeoData to Dialect Data
 - [ ] Section 3: Interactive Map
     - [ ] Map Functionalities
-        - [ ] R-Scripts and Packages (partially)
+        - [ ] (partially) R-Scripts and Packages
         - [ ] Accessible Visualisations
         - [ ] Stress-Testing
     - [ ] Online Hosting
