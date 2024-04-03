@@ -1,7 +1,44 @@
+# Countries in which German is (or might be?) spoken:
+# Germany, Denmark, Poland, Czechia, Austria, Switzerland, France, Luxembourg, Belgium, Netherlands, 
+#   Norway, Sweden, Finland, Estonia, Latvia, Lituania, Belarus, Ukraine, Moldova, Romania, Slovakia, 
+#   Hungary, Bulgaria, Serbia, North Macedonia, Kosovo, Greece, Albania, Croatia, Slovenia, Italy, 
+#   Malta, Monaco, Andorra, Spain, Portugal, United Kingdom, Ireland
+
+# Download Country/Region Data (Level 0)
+########################################
+gadm_afghanistan_0 <- downloadGadm(country="Afghanistan", level=0, dir_raw, version="latest", resolution=1)
+gadm_akrotirianddhekelia_0 <- downloadGadm(country="XAD", level=0, dir_raw, version="latest", resolution=1)
+gadm_armenia_0 <- downloadGadm(country="Armenia", level=0, dir_raw, version="latest", resolution=1)
+gadm_azerbaijan_0 <- downloadGadm(country="Azerbaijan", level=0, dir_raw, version="latest", resolution=1)
+gadm_bahrain_0 <- downloadGadm(country="Bahrain", level=0, dir_raw, version="latest", resolution=1)
+gadm_cyprus_0 <- downloadGadm(country="Cyprus", level=0, dir_raw, version="latest", resolution=1)
+gadm_egypt_0 <- downloadGadm(country="Egypt", level=0, dir_raw, version="latest", resolution=1)
+gadm_georgia_0 <- downloadGadm(country="Georgia", level=0, dir_raw, version="latest", resolution=1)
+gadm_iran_0 <- downloadGadm(country="Iran", level=0, dir_raw, version="latest", resolution=1)
+gadm_iraq_0 <- downloadGadm(country="Iraq", level=0, dir_raw, version="latest", resolution=1)
+gadm_israel_0 <- downloadGadm(country="Israel", level=0, dir_raw, version="latest", resolution=1)
+gadm_jordan_0 <- downloadGadm(country="Jordan", level=0, dir_raw, version="latest", resolution=1)
+gadm_kazakhstan_0 <- downloadGadm(country="Kazakhstan", level=0, dir_raw, version="latest", resolution=1)
+gadm_kuwait_0 <- downloadGadm(country="Kuwait", level=0, dir_raw, version="latest", resolution=1)
+gadm_kyrgyzstan_0 <- downloadGadm(country="Kyrgyzstan", level=0, dir_raw, version="latest", resolution=1)
+gadm_lebanon_0 <- downloadGadm(country="Lebanon", level=0, dir_raw, version="latest", resolution=1)
+gadm_oman_0 <- downloadGadm(country="Oman", level=0, dir_raw, version="latest", resolution=1)
+gadm_palestine_0 <- downloadGadm(country="PSE", level=0, dir_raw, version="latest", resolution=1)
+gadm_pakistan_0 <- downloadGadm(country="Pakistan", level=0, dir_raw, version="latest", resolution=1)
+gadm_qatar_0 <- downloadGadm(country="Qatar", level=0, dir_raw, version="latest", resolution=1)
+gadm_saudiarabia_0 <- downloadGadm(country="SAU", level=0, dir_raw, version="latest", resolution=1)
+gadm_syria_0 <- downloadGadm(country="Syria", level=0, dir_raw, version="latest", resolution=1)
+gadm_tajikistan_0 <- downloadGadm(country="Tajikistan", level=0, dir_raw, version="latest", resolution=1)
+gadm_turkmenistan_0 <- downloadGadm(country="Turkmenistan", level=0, dir_raw, version="latest", resolution=1)
+gadm_turkey_0 <- downloadGadm(country="Turkey", level=0, dir_raw, version="latest", resolution=1)
+gadm_unitedarabemirated_0 <- downloadGadm(country="ARE", level=0, dir_raw, version="latest", resolution=1)
+gadm_uzbekistan_0 <- downloadGadm(country="Uzbekistan", level=0, dir_raw, version="latest", resolution=1)
+gadm_yemen_0 <- downloadGadm(country="Yemen", level=0, dir_raw, version="latest", resolution=1)
 
 # Download Country/Region Data (Level 1)
 ########################################
 gadm_afghanistan_1 <- downloadGadm(country="Afghanistan", level=1, dir_raw, version="latest", resolution=1)
+gadm_akrotirianddhekelia_1 <- downloadGadm(country="XAD", level=1, dir_raw, version="latest", resolution=1)
 gadm_armenia_1 <- downloadGadm(country="Armenia", level=1, dir_raw, version="latest", resolution=1)
 gadm_azerbaijan_1 <- downloadGadm(country="Azerbaijan", level=1, dir_raw, version="latest", resolution=1)
 gadm_bahrain_1 <- downloadGadm(country="Bahrain", level=1, dir_raw, version="latest", resolution=1)
@@ -17,6 +54,7 @@ gadm_kuwait_1 <- downloadGadm(country="Kuwait", level=1, dir_raw, version="lates
 gadm_kyrgyzstan_1 <- downloadGadm(country="Kyrgyzstan", level=1, dir_raw, version="latest", resolution=1)
 gadm_lebanon_1 <- downloadGadm(country="Lebanon", level=1, dir_raw, version="latest", resolution=1)
 gadm_oman_1 <- downloadGadm(country="Oman", level=1, dir_raw, version="latest", resolution=1)
+gadm_palestine_1 <- downloadGadm(country="PSE", level=1, dir_raw, version="latest", resolution=1)
 gadm_pakistan_1 <- downloadGadm(country="Pakistan", level=1, dir_raw, version="latest", resolution=1)
 gadm_qatar_1 <- downloadGadm(country="Qatar", level=1, dir_raw, version="latest", resolution=1)
 gadm_saudiarabia_1 <- downloadGadm(country="SAU", level=1, dir_raw, version="latest", resolution=1)
@@ -27,7 +65,6 @@ gadm_turkey_1 <- downloadGadm(country="Turkey", level=1, dir_raw, version="lates
 gadm_unitedarabemirated_1 <- downloadGadm(country="ARE", level=1, dir_raw, version="latest", resolution=1)
 gadm_uzbekistan_1 <- downloadGadm(country="Uzbekistan", level=1, dir_raw, version="latest", resolution=1)
 gadm_yemen_1 <- downloadGadm(country="Yemen", level=1, dir_raw, version="latest", resolution=1)
-
 
 # Download Country/Region Data (Level 2) (For some countries no file available on this level)
 #############################################################################################
@@ -42,6 +79,7 @@ gadm_kazakhstan_2 <- downloadGadm(country="Kazakhstan", level=2, dir_raw, versio
 gadm_kyrgyzstan_2 <- downloadGadm(country="Kyrgyzstan", level=2, dir_raw, version="latest", resolution=1)
 gadm_lebanon_2 <- downloadGadm(country="Lebanon", level=2, dir_raw, version="latest", resolution=1)
 gadm_oman_2 <- downloadGadm(country="Oman", level=2, dir_raw, version="latest", resolution=1)
+gadm_palestine_2 <- downloadGadm(country="PSE", level=2, dir_raw, version="latest", resolution=1)
 gadm_pakistan_2 <- downloadGadm(country="Pakistan", level=2, dir_raw, version="latest", resolution=1)
 gadm_saudiarabia_2 <- downloadGadm(country="SAU", level=2, dir_raw, version="latest", resolution=1)
 gadm_syria_2 <- downloadGadm(country="Syria", level=2, dir_raw, version="latest", resolution=1)
@@ -51,3 +89,11 @@ gadm_turkey_2 <- downloadGadm(country="Turkey", level=2, dir_raw, version="lates
 gadm_unitedarabemirated_2 <- downloadGadm(country="ARE", level=2, dir_raw, version="latest", resolution=1)
 gadm_uzbekistan_2 <- downloadGadm(country="Uzbekistan", level=2, dir_raw, version="latest", resolution=1)
 gadm_yemen_2 <- downloadGadm(country="Yemen", level=2, dir_raw, version="latest", resolution=1)
+
+# Download Country/Region Data (Level 3) (Only exists for a few)
+#############################################################################################
+gadm_lebanon_3 <- downloadGadm(country="Lebanon", level=3, dir_raw, version="latest", resolution=1)
+gadm_pakistan_3 <- downloadGadm(country="Pakistan", level=3, dir_raw, version="latest", resolution=1)
+gadm_tajikistan_3 <- downloadGadm(country="Tajikistan", level=3, dir_raw, version="latest", resolution=1)
+gadm_unitedarabemirated_3 <- downloadGadm(country="ARE", level=3, dir_raw, version="latest", resolution=1)
+

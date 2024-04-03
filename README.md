@@ -124,7 +124,17 @@ TODO
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-TODO: Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+### Example: German
+- 1. We assume German to be spoken in Germany and maybe in the surrounding countries, so we look on google maps (or more old-school: A real atlas) and write the country names into the DialectMapping/data/info/german_countries.txt file (line-by-line).
+- 2. We run the bash script to convert our list of country names into country codes used by gadm and executable R-Code.
+```
+bash country_names2codes.sh
+```
+  - Found countries are written into: ./data/inter/german_countries_codes.txt
+  - Missing countries are written into: ./data/inter/german_countries_not_found.txt
+- (TODO: Link with DialectOntology to automate this part)
+- 3. 
+
 
 _For more examples, please refer to the [Documentation](https://github.com/christianschuler8989/DialectMapping/tree/main/docs)_
 
@@ -215,6 +225,7 @@ Related project of the authors: [Analysis of Phonology and Morphology in the Kob
 A list of helpful resources we would like to give credit to:
 
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template) 
+* [GADM](https://gadm.org/index.html) provides maps and spatial data for all countries and their sub-divisions. You can browse our maps or download the data to make your own maps.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

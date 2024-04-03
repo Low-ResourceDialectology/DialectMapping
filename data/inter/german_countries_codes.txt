@@ -1,0 +1,38 @@
+Country Codes:
+DEU - Germany
+DNK - Denmark
+POL - Poland
+CZE - Czech Republic
+AUT - Austria
+CHE - Switzerland
+FRA - France
+LUX - Luxembourg
+BEL - Belgium
+NLD - Netherlands
+NOR - Norway
+SWE - Sweden
+FIN - Finland
+EST - Estonia
+LVA - Latvia
+LTU - Lithuania
+BLR - Belarus
+UKR - Ukraine
+MDA - Moldova
+ROU - Romania
+SVK - Slovakia
+HUN - Hungary
+BGR - Bulgaria
+SRB - Serbia
+MKD - Macedonia
+XKO - Kosovo
+GRC - Greece
+ALB - Albania
+HRV - Croatia
+SVN - Slovenia
+ITA - Italy
+MLT - Malta
+MCO - Monaco
+AND - Andorra
+ESP - Spain
+PRT - Portugal
+GBR - United Kingdom
