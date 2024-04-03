@@ -24,8 +24,8 @@ source(paste0(dir_src, "setup/downloadData.R", sep=""))
 
 # TODO: A function that checks if downloads are required(?)
 # Initial download of geolocation data
-source(paste0(dir_src, "setup/initialDownloadKurdish.R", sep=""))
-source(paste0(dir_src, "setup/initialDownloadGerman.R", sep=""))
+#source(paste0(dir_src, "setup/initialDownloadKurdish.R", sep=""))
+#source(paste0(dir_src, "setup/initialDownloadGerman.R", sep=""))
 
 # Data download via geodata::osm
 ################################

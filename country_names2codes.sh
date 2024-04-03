@@ -30,16 +30,32 @@ done < "$csv_file"
 # Initialize array to store not found countries
 not_found_countries=()
 
-# Read text file, find corresponding country codes, and write to output file
-echo "Country Codes:" > "$output_file"
+# Open output file for writing
+echo "# Download commands" > "$output_file"
+
+# Read text file, find corresponding country codes, and write download commands to output file
 while IFS= read -r country; do
     code="${country_codes[$country]}"
     if [ -n "$code" ]; then
-        echo "$code - $country" >> "$output_file"
+        # Generate download command for the country
+        download_command="gadm_${country,,}_0 <- downloadGadm(country=\"$code\", level=0, dir_raw, version=\"latest\", resolution=1)"
+        echo "$download_command" >> "$output_file"
     else
         not_found_countries+=("$country")
     fi
 done < "$txt_file"
+
+# NOTE: Plain version of simple country codes
+# # Read text file, find corresponding country codes, and write to output file
+# echo "Country Codes:" > "$output_file"
+# while IFS= read -r country; do
+#     code="${country_codes[$country]}"
+#     if [ -n "$code" ]; then
+#         echo "$code - $country" >> "$output_file"
+#     else
+#         not_found_countries+=("$country")
+#     fi
+# done < "$txt_file"
 
 # Write not found countries to a separate file
 if [ ${#not_found_countries[@]} -gt 0 ]; then
@@ -50,4 +66,5 @@ if [ ${#not_found_countries[@]} -gt 0 ]; then
     echo "Countries not found have been written to $not_found_file"
 fi
 
-echo "Country codes have been written to $output_file"
+#echo "Country codes have been written to $output_file"
+echo "Download commands have been written to $output_file"

@@ -115,7 +115,15 @@ TODO
 
 ### Installation
 
-TODO
+TODO: More Details
+
+- Install R
+- Set library directory for R
+```
+echo 'export R_LIBS_USER="/media/CrazyProjects/LowResDialectology/DialectMapping/DialectMapping/R"' >> ~/.bashrc
+source ~/.bashrc
+```
+- Install packages (via setup script)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

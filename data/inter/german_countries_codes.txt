@@ -1,38 +1,38 @@
-Country Codes:
-DEU - Germany
-DNK - Denmark
-POL - Poland
-CZE - Czech Republic
-AUT - Austria
-CHE - Switzerland
-FRA - France
-LUX - Luxembourg
-BEL - Belgium
-NLD - Netherlands
-NOR - Norway
-SWE - Sweden
-FIN - Finland
-EST - Estonia
-LVA - Latvia
-LTU - Lithuania
-BLR - Belarus
-UKR - Ukraine
-MDA - Moldova
-ROU - Romania
-SVK - Slovakia
-HUN - Hungary
-BGR - Bulgaria
-SRB - Serbia
-MKD - Macedonia
-XKO - Kosovo
-GRC - Greece
-ALB - Albania
-HRV - Croatia
-SVN - Slovenia
-ITA - Italy
-MLT - Malta
-MCO - Monaco
-AND - Andorra
-ESP - Spain
-PRT - Portugal
-GBR - United Kingdom
+# Download commands
+gadm_germany_0 <- downloadGadm(country="DEU", level=0, dir_raw, version="latest", resolution=1)
+gadm_denmark_0 <- downloadGadm(country="DNK", level=0, dir_raw, version="latest", resolution=1)
+gadm_poland_0 <- downloadGadm(country="POL", level=0, dir_raw, version="latest", resolution=1)
+gadm_czech republic_0 <- downloadGadm(country="CZE", level=0, dir_raw, version="latest", resolution=1)
+gadm_austria_0 <- downloadGadm(country="AUT", level=0, dir_raw, version="latest", resolution=1)
+gadm_switzerland_0 <- downloadGadm(country="CHE", level=0, dir_raw, version="latest", resolution=1)
+gadm_france_0 <- downloadGadm(country="FRA", level=0, dir_raw, version="latest", resolution=1)
+gadm_luxembourg_0 <- downloadGadm(country="LUX", level=0, dir_raw, version="latest", resolution=1)
+gadm_belgium_0 <- downloadGadm(country="BEL", level=0, dir_raw, version="latest", resolution=1)
+gadm_netherlands_0 <- downloadGadm(country="NLD", level=0, dir_raw, version="latest", resolution=1)
+gadm_norway_0 <- downloadGadm(country="NOR", level=0, dir_raw, version="latest", resolution=1)
+gadm_sweden_0 <- downloadGadm(country="SWE", level=0, dir_raw, version="latest", resolution=1)
+gadm_finland_0 <- downloadGadm(country="FIN", level=0, dir_raw, version="latest", resolution=1)
+gadm_estonia_0 <- downloadGadm(country="EST", level=0, dir_raw, version="latest", resolution=1)
+gadm_latvia_0 <- downloadGadm(country="LVA", level=0, dir_raw, version="latest", resolution=1)
+gadm_lithuania_0 <- downloadGadm(country="LTU", level=0, dir_raw, version="latest", resolution=1)
+gadm_belarus_0 <- downloadGadm(country="BLR", level=0, dir_raw, version="latest", resolution=1)
+gadm_ukraine_0 <- downloadGadm(country="UKR", level=0, dir_raw, version="latest", resolution=1)
+gadm_moldova_0 <- downloadGadm(country="MDA", level=0, dir_raw, version="latest", resolution=1)
+gadm_romania_0 <- downloadGadm(country="ROU", level=0, dir_raw, version="latest", resolution=1)
+gadm_slovakia_0 <- downloadGadm(country="SVK", level=0, dir_raw, version="latest", resolution=1)
+gadm_hungary_0 <- downloadGadm(country="HUN", level=0, dir_raw, version="latest", resolution=1)
+gadm_bulgaria_0 <- downloadGadm(country="BGR", level=0, dir_raw, version="latest", resolution=1)
+gadm_serbia_0 <- downloadGadm(country="SRB", level=0, dir_raw, version="latest", resolution=1)
+gadm_macedonia_0 <- downloadGadm(country="MKD", level=0, dir_raw, version="latest", resolution=1)
+gadm_kosovo_0 <- downloadGadm(country="XKO", level=0, dir_raw, version="latest", resolution=1)
+gadm_greece_0 <- downloadGadm(country="GRC", level=0, dir_raw, version="latest", resolution=1)
+gadm_albania_0 <- downloadGadm(country="ALB", level=0, dir_raw, version="latest", resolution=1)
+gadm_croatia_0 <- downloadGadm(country="HRV", level=0, dir_raw, version="latest", resolution=1)
+gadm_slovenia_0 <- downloadGadm(country="SVN", level=0, dir_raw, version="latest", resolution=1)
+gadm_italy_0 <- downloadGadm(country="ITA", level=0, dir_raw, version="latest", resolution=1)
+gadm_malta_0 <- downloadGadm(country="MLT", level=0, dir_raw, version="latest", resolution=1)
+gadm_monaco_0 <- downloadGadm(country="MCO", level=0, dir_raw, version="latest", resolution=1)
+gadm_andorra_0 <- downloadGadm(country="AND", level=0, dir_raw, version="latest", resolution=1)
+gadm_spain_0 <- downloadGadm(country="ESP", level=0, dir_raw, version="latest", resolution=1)
+gadm_portugal_0 <- downloadGadm(country="PRT", level=0, dir_raw, version="latest", resolution=1)
+gadm_united kingdom_0 <- downloadGadm(country="GBR", level=0, dir_raw, version="latest", resolution=1)
